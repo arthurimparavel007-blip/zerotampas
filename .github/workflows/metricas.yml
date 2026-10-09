@@ -1,0 +1,43 @@
+name: Métricas diárias Zero Tampas
+
+on:
+  schedule:
+    - cron: '47 22 * * *'    # ~23:47 em Lisboa (verão) / 22:47 (inverno)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-escrita
+  cancel-in-progress: false
+
+jobs:
+  metricas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Ler métricas da página
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GRAPH_HOST: graph.instagram.com
+        run: node insights.js
+      - name: Resumo no GitHub
+        run: |
+          node ferramentas/estado.js >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          head -40 dados/ranking.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Guardar
+        run: |
+          git config user.name "zerotampas-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add dados/
+          git diff --cached --quiet && exit 0
+          git commit -m "métricas $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
+          exit 1

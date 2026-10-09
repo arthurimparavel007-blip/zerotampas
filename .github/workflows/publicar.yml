@@ -1,0 +1,44 @@
+name: Publicar posts Zero Tampas
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # a cada 30 min (o GitHub pode atrasar alguns minutos)
+  workflow_dispatch: {}       # botão "Run workflow" para publicar já
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-escrita        # nunca corre ao mesmo tempo que as métricas ou o Claude
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Publicar o que já está na hora
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/
+          GRAPH_HOST: graph.instagram.com
+          MAX_POR_DIA: '15'       # baixe para 10 depois de uma PAUSA
+          ATRASO_MAX_H: '3'       # posts com +3 h de atraso não saem em rajada
+          MAX_POR_EXECUCAO: '2'   # recupera atrasos curtos (ex.: post + story)
+        run: node publicar.js
+      - name: Guardar estado da fila
+        if: always()
+        run: |
+          git config user.name "zerotampas-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add fila/fila.json
+          [ -f PAUSA ] && git add PAUSA || true
+          git diff --cached --quiet && exit 0
+          git commit -m "fila: publicado $(date -u +%FT%TZ)"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
+          exit 1
