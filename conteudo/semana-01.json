@@ -1,0 +1,1156 @@
+{
+ "semana": 1,
+ "fase": "crescer (sem vender)",
+ "inicio": "2026-10-12",
+ "posts": [
+  {
+   "template": "deixa",
+   "cor": "mag",
+   "numero": 1,
+   "local": "No café",
+   "frase": "Pediste o mesmo que eu. Ou temos ótimo gosto ou somos os dois previsíveis.",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #1 ☕\n\nBrinca com a situação, nunca com ela. Guarda para usares esta semana.\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d1-0830",
+   "data": "2026-10-12",
+   "hora": "08:30"
+  },
+  {
+   "template": "lista",
+   "cor": "sol",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Guarda isto",
+    "titulo": "3 deixas para o café que não são foleiras"
+   },
+   "itens": [
+    {
+     "titulo": "Pediste o mesmo que eu. Ou temos ótimo gosto ou somos os dois previsíveis.",
+     "nota": "Brinca com a situação, não com ela."
+    },
+    {
+     "titulo": "Estás a ler isso há meia hora sem levantar os olhos. Tem de ser bom. O que é?",
+     "nota": "Toda a gente gosta de falar do livro que está a ler."
+    },
+    {
+     "titulo": "Sabes a password do wi-fi? E já agora, sou o Rui.",
+     "nota": "Apresenta-te cedo. Ela diz-te o nome dela."
+    }
+   ],
+   "dica": {
+    "titulo": "A fórmula",
+    "texto": "Repara em algo à vossa volta + faz uma pergunta leve. É isto. Não precisas de decorar nada."
+   },
+   "story": true,
+   "legenda": "3 deixas para o café que funcionam porque nascem do sítio onde estás ☕\n\nGuarda e envia ao amigo que vai precisar disto no sábado.\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d1-1230",
+   "data": "2026-10-12",
+   "hora": "12:30"
+  },
+  {
+   "template": "dialogo",
+   "cor": "mag",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Tocas guitarra?"
+    },
+    {
+     "quem": "ela",
+     "txt": "Tocava."
+    },
+    {
+     "quem": "ele",
+     "txt": "Então foste tu que mexeste nas cordas do meu coração."
+    }
+   ],
+   "legenda": "Ela não estava à espera desta 🎸😂\n\nGuarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d1-1800",
+   "data": "2026-10-12",
+   "hora": "18:00"
+  },
+  {
+   "template": "tweet",
+   "cor": "plum",
+   "texto": "Ninguém:\nEu, três horas depois, no duche: «devia ter dito que também gosto de pastel de nata».",
+   "story": true,
+   "legenda": "Diz que não sou o único 😩\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d1-2130",
+   "data": "2026-10-12",
+   "hora": "21:30"
+  },
+  {
+   "template": "deixa",
+   "cor": "tan",
+   "numero": 2,
+   "local": "No ginásio",
+   "frase": "Estou a tentar perceber se tu usas mal essa máquina ou se sou eu que a uso mal há dois anos.",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #2 🏋️\n\nSó no intervalo entre séries e nunca comentários sobre o corpo. Rir de ti próprio abre sempre a porta.\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d2-0830",
+   "data": "2026-10-13",
+   "hora": "08:30"
+  },
+  {
+   "template": "vs",
+   "cor": "plum",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Nas apps",
+    "titulo": "Foleiro vs. fixe: a primeira mensagem"
+   },
+   "pares": [
+    {
+     "foleiro": "Olá tudo bem?",
+     "fixe": "Vi o teu cão na terceira foto. Já gosto mais dele do que de metade das pessoas que conheço."
+    },
+    {
+     "foleiro": "És linda 😍",
+     "fixe": "Essa foto é em Sintra? Subiste a pé ou fizeste batota de tuk-tuk?"
+    },
+    {
+     "foleiro": "Um textão a contar a tua vida",
+     "fixe": "Uma pergunta sobre algo do perfil dela. Só uma."
+    }
+   ],
+   "story": true,
+   "legenda": "A primeira mensagem decide tudo 📱\n\nMarca o amigo que ainda manda «olá tudo bem?» 😂\n\nMarca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d2-1230",
+   "data": "2026-10-13",
+   "hora": "12:30"
+  },
+  {
+   "template": "marca",
+   "cor": "tan",
+   "texto": "Marca o amigo que manda «olá tudo bem?» e acha que é estratégia.",
+   "legenda": "Segue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d2-1800",
+   "data": "2026-10-13",
+   "hora": "18:00"
+  },
+  {
+   "template": "meme",
+   "cor": "mag",
+   "setup": "Ela olhou para mim no metro.",
+   "punch": "Eu: a estudar o mapa das estações como se não soubesse onde moro. 🚇",
+   "story": true,
+   "legenda": "Envia ao amigo que sofre disto 😂\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d2-2130",
+   "data": "2026-10-13",
+   "hora": "21:30"
+  },
+  {
+   "template": "deixa",
+   "cor": "sol",
+   "numero": 3,
+   "local": "No supermercado",
+   "frase": "Desculpa, sabes se este queijo derrete bem? Vou fazer um jantar e não quero envergonhar-me.",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #3 🧀\n\nPedir ajuda é a forma mais fácil de começar uma conversa. As pessoas gostam de ajudar.\n\nGuarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d3-0800",
+   "data": "2026-10-14",
+   "hora": "08:00"
+  },
+  {
+   "template": "tweet",
+   "cor": "mag",
+   "texto": "O meu plano para hoje: falar com ela.\nO meu plano real: olhar para o telemóvel até ela sair do metro.",
+   "legenda": "Verdade ou mentira? 👀\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d3-1030",
+   "data": "2026-10-14",
+   "hora": "10:30"
+  },
+  {
+   "template": "lista",
+   "cor": "tan",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Acabou-se o silêncio",
+    "titulo": "Como a conversa não morre ao 3.º «pois»"
+   },
+   "itens": [
+    {
+     "titulo": "Puxa o fio",
+     "nota": "Ela diz que vem da aula de cerâmica? Pergunta pela cerâmica, não mudes de assunto."
+    },
+    {
+     "titulo": "Partilha também",
+     "nota": "Só perguntas parece um interrogatório. Responde com uma história tua, curta."
+    },
+    {
+     "titulo": "Joga ao «deixa-me adivinhar»",
+     "nota": "«Tens sotaque do Norte. Braga?» Ela vai querer corrigir-te."
+    },
+    {
+     "titulo": "O silêncio não mata",
+     "nota": "Três segundos parecem uma eternidade para ti. Para ela é só uma pausa. Sorri."
+    }
+   ],
+   "story": true,
+   "legenda": "A primeira frase correu bem. E agora? 🤔\n\nGuarda estas 4 regras e envia a quem fica sempre sem assunto.\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d3-1300",
+   "data": "2026-10-14",
+   "hora": "13:00"
+  },
+  {
+   "template": "dialogo",
+   "cor": "plum",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Sabes que horas são?"
+    },
+    {
+     "quem": "ela",
+     "txt": "Cinco e quatro."
+    },
+    {
+     "quem": "ele",
+     "txt": "É que o meu relógio está avariado… diz que é hora de te dar um beijo."
+    }
+   ],
+   "legenda": "Relógio avariado, lata intacta ⌚😂\n\nMarca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d3-1630",
+   "data": "2026-10-14",
+   "hora": "16:30"
+  },
+  {
+   "template": "notas",
+   "titulo": "Coisas que ninguém me ensinou na escola:",
+   "linhas": [
+    "Como dizer olá sem tremer",
+    "O que dizer a seguir ao olá",
+    "Como pedir o número sem ser estranho",
+    "Como levar uma tampa e rir-me disso"
+   ],
+   "rodape": "segue para aprenderes 1 por dia ↓",
+   "legenda": "Isto devia ser disciplina obrigatória 📓\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d3-1930",
+   "data": "2026-10-14",
+   "hora": "19:30"
+  },
+  {
+   "template": "marca",
+   "cor": "mag",
+   "texto": "Marca o amigo que tem a frase perfeita… só depois de ela ir embora.",
+   "story": true,
+   "legenda": "Envia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d3-2200",
+   "data": "2026-10-14",
+   "hora": "22:00"
+  },
+  {
+   "template": "deixa",
+   "cor": "plum",
+   "numero": 4,
+   "local": "Na faculdade",
+   "frase": "Percebeste alguma coisa da última meia hora? Diz que não, para eu não me sentir sozinho.",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #4 🎓\n\nO sofrimento partilhado une mais do que qualquer deixa decorada.\n\nGuarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-0800",
+   "data": "2026-10-15",
+   "hora": "08:00"
+  },
+  {
+   "template": "tweet",
+   "cor": "tan",
+   "texto": "«Olá tudo bem?» não é uma mensagem. É uma oração.",
+   "legenda": "Envia ao amigo que precisa de ler isto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-1000",
+   "data": "2026-10-15",
+   "hora": "10:00"
+  },
+  {
+   "template": "lista",
+   "cor": "mag",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Lê os sinais",
+    "titulo": "5 sinais de que ela está a gostar da conversa"
+   },
+   "itens": [
+    {
+     "titulo": "Responde com frases completas",
+     "nota": "Não só «sim» e «pois»."
+    },
+    {
+     "titulo": "Faz-te perguntas de volta",
+     "nota": "Interesse é recíproco."
+    },
+    {
+     "titulo": "Vira o corpo para ti",
+     "nota": "Em vez de ficar de lado a olhar para a saída."
+    },
+    {
+     "titulo": "Ri-se, mesmo da piada fraca",
+     "nota": "Sim, nós reparámos."
+    },
+    {
+     "titulo": "Prolonga quando tu paras",
+     "nota": "É a deixa para pedires o número."
+    }
+   ],
+   "story": true,
+   "legenda": "Antes de pedires o número, lê isto 👀\n\nE se vires o contrário, sai com elegância: «Bom resto de dia!»\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-1200",
+   "data": "2026-10-15",
+   "hora": "12:00"
+  },
+  {
+   "template": "chat",
+   "titulo": "Mesma miúda. Mensagem diferente.",
+   "antes": [
+    {
+     "de": "eu",
+     "txt": "olá tudo bem?"
+    }
+   ],
+   "antes_rodape": "Visto às 23:47",
+   "depois": [
+    {
+     "de": "eu",
+     "txt": "Isso é em Belém? Preciso de saber se o pastel de nata é tão bom como dizem 👀"
+    },
+    {
+     "de": "ela",
+     "txt": "ahahah é o melhor 😂 se quiseres mostro-te"
+    }
+   ],
+   "legenda": "A diferença não é a cara. É a mensagem 👀\n\nEnvia ao amigo que vive no visto.\n\nMarca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-1400",
+   "data": "2026-10-15",
+   "hora": "14:00"
+  },
+  {
+   "template": "dialogo",
+   "cor": "tan",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Quanto custa o bilhete?"
+    },
+    {
+     "quem": "ela",
+     "txt": "Que bilhete??"
+    },
+    {
+     "quem": "ele",
+     "txt": "Para este espetáculo de beleza que estás a dar."
+    }
+   ],
+   "legenda": "Foleiro? Talvez. Mas ela riu-se 🎟️\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-1630",
+   "data": "2026-10-15",
+   "hora": "16:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "sol",
+   "texto": "Levei uma tampa hoje.\nResultado: continuo vivo, o café estava bom e ganhei uma história.",
+   "legenda": "Quem nunca 🙃\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-1830",
+   "data": "2026-10-15",
+   "hora": "18:30"
+  },
+  {
+   "template": "dialogo",
+   "cor": "sol",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "É a tua mãe?"
+    },
+    {
+     "quem": "ela",
+     "txt": "É!"
+    },
+    {
+     "quem": "ele",
+     "txt": "Acredita que a minha mãe bateu com a cabeça e esqueceu-se de que nós namoramos?"
+    }
+   ],
+   "legenda": "A mãe dela foi a primeira a rir-se 😂\n\nGuarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-2030",
+   "data": "2026-10-15",
+   "hora": "20:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "plum",
+   "texto": "A diferença entre ter lata e ser chato é perceber quando parar.",
+   "story": true,
+   "legenda": "Guarda isto para sábado.\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d4-2230",
+   "data": "2026-10-15",
+   "hora": "22:30"
+  },
+  {
+   "template": "deixa",
+   "cor": "tan",
+   "numero": 5,
+   "local": "No bar",
+   "frase": "Estou indeciso: imperial ou sangria? Tu é que decides.",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #5 🍻\n\nPedir-lhe que escolha entre duas coisas é a forma mais leve de começar. Sexta-feira está aí.\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-0800",
+   "data": "2026-10-16",
+   "hora": "08:00"
+  },
+  {
+   "template": "marca",
+   "cor": "plum",
+   "texto": "Marca quem precisa de ler isto antes de sair hoje à noite.",
+   "legenda": "Marca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-0930",
+   "data": "2026-10-16",
+   "hora": "09:30"
+  },
+  {
+   "template": "meme",
+   "cor": "sol",
+   "setup": "Quando ela responde ao teu story com um emoji:",
+   "punch": "É amor? É amizade? Preciso de um especialista. 🧐",
+   "legenda": "Envia ao amigo que sofre disto 😂\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-1100",
+   "data": "2026-10-16",
+   "hora": "11:00"
+  },
+  {
+   "template": "vs",
+   "cor": "mag",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Ao vivo",
+    "titulo": "Foleiro vs. fixe: quando a vês pela primeira vez"
+   },
+   "pares": [
+    {
+     "foleiro": "«Doeu quando caíste do céu?»",
+     "fixe": "«Esse livro vale a pena ou estás a fingir que lês?»"
+    },
+    {
+     "foleiro": "Comentar o corpo dela",
+     "fixe": "Comentar algo do momento"
+    },
+    {
+     "foleiro": "Insistir depois de um não",
+     "fixe": "«Tranquilo. Bom resto de noite!» e seguir"
+    }
+   ],
+   "story": true,
+   "legenda": "Antes de saíres hoje à noite, revê isto 🍸\n\nRaramente é a cara. É a abordagem.\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-1230",
+   "data": "2026-10-16",
+   "hora": "12:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "mag",
+   "texto": "Ela: «haha»\nEu: 40 minutos a analisar se foi um haha bom ou mau.",
+   "legenda": "Isto devia ser ensinado na escola.\n\nGuarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-1400",
+   "data": "2026-10-16",
+   "hora": "14:00"
+  },
+  {
+   "template": "dialogo",
+   "cor": "mag",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "A minha mãe quer dar-te um presente de Natal…"
+    },
+    {
+     "quem": "ela",
+     "txt": "A mim?"
+    },
+    {
+     "quem": "ele",
+     "txt": "É que ela quer muito conhecer a nora."
+    }
+   ],
+   "legenda": "Outubro e já a pensar no Natal 🎄😏\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-1530",
+   "data": "2026-10-16",
+   "hora": "15:30"
+  },
+  {
+   "template": "notas",
+   "titulo": "Frases proibidas no primeiro encontro:",
+   "linhas": [
+    "«A minha ex…»",
+    "«Quanto é que ganhas?»",
+    "«Isto é um encontro ou…?»",
+    "«Costumo vir cá com outras»"
+   ],
+   "rodape": "guarda antes de sábado ↓",
+   "legenda": "Se já disseste alguma, não estás sozinho 😅\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-1700",
+   "data": "2026-10-16",
+   "hora": "17:00"
+  },
+  {
+   "template": "marca",
+   "cor": "sol",
+   "texto": "Marca o amigo que tem mais lata do que juízo.",
+   "legenda": "Marca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-1830",
+   "data": "2026-10-16",
+   "hora": "18:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "tan",
+   "texto": "Mandei mensagem às 23:47.\nVisto às 23:47.\nResposta prevista: no próximo ano bissexto.",
+   "legenda": "Partilha nos stories se te identificas 😅\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-2030",
+   "data": "2026-10-16",
+   "hora": "20:30"
+  },
+  {
+   "template": "chat",
+   "titulo": "Pedir o encontro: vago vs. concreto",
+   "antes": [
+    {
+     "de": "eu",
+     "txt": "queres sair um dia?"
+    },
+    {
+     "de": "ela",
+     "txt": "talvez 😅"
+    }
+   ],
+   "antes_rodape": "E nunca mais se falou nisso",
+   "depois": [
+    {
+     "de": "eu",
+     "txt": "Conheço um miradouro com o melhor pôr do sol de Lisboa. Quinta às 18h30?"
+    },
+    {
+     "de": "ela",
+     "txt": "combinado 😊"
+    }
+   ],
+   "story": true,
+   "legenda": "«Um dia» é o dia que nunca chega 📅\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d5-2230",
+   "data": "2026-10-16",
+   "hora": "22:30"
+  },
+  {
+   "template": "deixa",
+   "cor": "mag",
+   "numero": 6,
+   "local": "Na rua",
+   "frase": "Esse cão é demasiado fixe. Como se chama?",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #6 🐶\n\nOs animais abrem qualquer conversa. Ela diz o nome do cão, tu dizes o teu.\n\nGuarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-0800",
+   "data": "2026-10-17",
+   "hora": "08:00"
+  },
+  {
+   "template": "dialogo",
+   "cor": "plum",
+   "eyebrow": "Gafe que correu bem",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Estava à espera que ela se fosse embora para vir falar contigo."
+    },
+    {
+     "quem": "ela",
+     "txt": "Ela quem??"
+    },
+    {
+     "quem": "ele",
+     "txt": "…pois. Também não sei."
+    }
+   ],
+   "legenda": "Até a gafe acaba em riso quando tens lata 😅\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-0930",
+   "data": "2026-10-17",
+   "hora": "09:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "sol",
+   "texto": "Toda a gente tem aquele amigo que não é assim tão giro e nunca vai para casa sozinho. O segredo dele não é a cara. É dizer olá.",
+   "legenda": "Marca o teu amigo com lata 😂\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-1100",
+   "data": "2026-10-17",
+   "hora": "11:00"
+  },
+  {
+   "template": "lista",
+   "cor": "plum",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Respeito é atraente",
+    "titulo": "Como levar uma tampa com pinta"
+   },
+   "itens": [
+    {
+     "titulo": "Toda a gente leva tampas",
+     "nota": "Até os mais giros. Faz parte do jogo."
+    },
+    {
+     "titulo": "Não é sobre ti",
+     "nota": "Pode ter namorado, estar num mau dia ou não haver química."
+    },
+    {
+     "titulo": "Uma frase basta",
+     "nota": "«Tranquilo. Bom resto de dia!» Sorris e segues."
+    },
+    {
+     "titulo": "Nunca insistir",
+     "nota": "Nem insultar, nem mandar mensagem a perguntar porquê. Um não é um não."
+    },
+    {
+     "titulo": "Joga às 10 tampas",
+     "nota": "Meta do mês: levar 10. Vais ver que levas menos do que pensas."
+    }
+   ],
+   "story": true,
+   "legenda": "A tampa bem levada esquece-se. A mal levada vira vergonha 🧢\n\nEnvia a quem precisa de ouvir isto.\n\nMarca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-1230",
+   "data": "2026-10-17",
+   "hora": "12:30"
+  },
+  {
+   "template": "dialogo",
+   "cor": "tan",
+   "eyebrow": "Até a avó riu",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Sabe qual é a atração desta noite?"
+    },
+    {
+     "quem": "ela",
+     "txt": "Não."
+    },
+    {
+     "quem": "ele",
+     "txt": "A atração… é a senhora!"
+    }
+   ],
+   "legenda": "Respeito e piada não têm idade 👵❤️\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-1400",
+   "data": "2026-10-17",
+   "hora": "14:00"
+  },
+  {
+   "template": "tweet",
+   "cor": "plum",
+   "texto": "Ninguém nasce a saber meter conversa. Há quem tenha começado a treinar mais cedo.",
+   "legenda": "Treina-se. Como no ginásio.\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-1530",
+   "data": "2026-10-17",
+   "hora": "15:30"
+  },
+  {
+   "template": "marca",
+   "cor": "tan",
+   "texto": "Marca o amigo que ensaiou o «olá» 14 vezes ao espelho.",
+   "legenda": "Guarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-1700",
+   "data": "2026-10-17",
+   "hora": "17:00"
+  },
+  {
+   "template": "meme",
+   "cor": "tan",
+   "setup": "Eu a explicar ao meu amigo como se mete conversa:",
+   "punch": "Eu, quando ela aparece: 🧍‍♂️",
+   "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-1830",
+   "data": "2026-10-17",
+   "hora": "18:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "mag",
+   "texto": "Primeiro encontro ideal em Portugal: bica, miradouro, pôr do sol. Uma hora. Acaba enquanto está a correr bem.",
+   "legenda": "Anota 📝\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-2030",
+   "data": "2026-10-17",
+   "hora": "20:30"
+  },
+  {
+   "template": "dialogo",
+   "cor": "sol",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Pode atender-me?"
+    },
+    {
+     "quem": "ela",
+     "txt": "Posso."
+    },
+    {
+     "quem": "ele",
+     "txt": "Então dá-me o teu número, para eu te ligar."
+    }
+   ],
+   "story": true,
+   "legenda": "Direto ao assunto, com um sorriso 📞\n\nMarca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d6-2230",
+   "data": "2026-10-17",
+   "hora": "22:30"
+  },
+  {
+   "template": "deixa",
+   "cor": "sol",
+   "numero": 7,
+   "local": "Nas apps",
+   "frase": "Pizza com ou sem ananás? Disso depende o futuro desta conversa.",
+   "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+   "story": true,
+   "legenda": "Deixa do dia #7 🍕\n\nProvoca sobre gostos, nunca sobre o corpo. Ela vai querer defender a pizza dela.\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-0800",
+   "data": "2026-10-18",
+   "hora": "08:00"
+  },
+  {
+   "template": "notas",
+   "titulo": "Plano para esta semana:",
+   "linhas": [
+    "Dizer bom dia a 5 desconhecidos",
+    "Fazer 3 perguntas a quem não conheço",
+    "Meter conversa com quem me interessa",
+    "Levar uma tampa e rir-me disso"
+   ],
+   "rodape": "7 dias sem vergonha. Alinhas?",
+   "legenda": "Nova semana, nova lata 💪 Começa pequeno.\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-0930",
+   "data": "2026-10-18",
+   "hora": "09:30"
+  },
+  {
+   "template": "marca",
+   "cor": "mag",
+   "texto": "Marca quem ainda reage a stories com 🔥🔥🔥.",
+   "legenda": "Guarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-1100",
+   "data": "2026-10-18",
+   "hora": "11:00"
+  },
+  {
+   "template": "lista",
+   "cor": "sol",
+   "cta": "seguir",
+   "capa": {
+    "eyebrow": "Fim do visto",
+    "titulo": "3 respostas a stories que não ficam no visto"
+   },
+   "itens": [
+    {
+     "titulo": "«Isso é em Lisboa? Preciso de saber se é tão bom como parece 👀»",
+     "nota": "Pergunta sobre o sítio."
+    },
+    {
+     "titulo": "«Quem escolheu essa música? Merece um prémio.»",
+     "nota": "Elogia uma escolha, não a cara."
+    },
+    {
+     "titulo": "«O teu gato tem mais atitude do que eu. Como se chama?»",
+     "nota": "Os animais abrem qualquer conversa."
+    }
+   ],
+   "dica": {
+    "titulo": "A regra",
+    "texto": "Reação a algo concreto + uma pergunta fácil de responder. Nada de 🔥🔥🔥 nem «linda»."
+   },
+   "story": true,
+   "legenda": "Para de reagir com 🔥 aos stories dela 🙃\n\nGuarda e envia ao amigo que vive no visto.\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-1230",
+   "data": "2026-10-18",
+   "hora": "12:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "tan",
+   "texto": "Ela riu-se da minha piada fraca.\nEu: já escolhi o nome dos nossos cães.",
+   "legenda": "Não me julguem 🐶\n\nPartilha nos teus stories 🔁",
+   "hashtags": [
+    "#tinder",
+    "#solteiros",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-1400",
+   "data": "2026-10-18",
+   "hora": "14:00"
+  },
+  {
+   "template": "dialogo",
+   "cor": "mag",
+   "eyebrow": "Resposta a story",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "🍿"
+    },
+    {
+     "quem": "ela",
+     "txt": "??"
+    },
+    {
+     "quem": "ele",
+     "txt": "É o que costumo comprar para ver espetáculos como os teus stories."
+    }
+   ],
+   "legenda": "O emoji que acabou em conversa 🍿\n\nMarca o amigo que vai usar isto 😂",
+   "hashtags": [
+    "#confianca",
+    "#portugal",
+    "#lisboa",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-1530",
+   "data": "2026-10-18",
+   "hora": "15:30"
+  },
+  {
+   "template": "tweet",
+   "cor": "sol",
+   "texto": "Um «não» é um «não».\nUm «talvez» é um «não» com educação.\nUm «sábado às 18h?» é um sim.",
+   "legenda": "Simples assim.\n\nSegue @zerotampas para uma deixa por dia.",
+   "hashtags": [
+    "#portugal",
+    "#humorportugues",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-1700",
+   "data": "2026-10-18",
+   "hora": "17:00"
+  },
+  {
+   "template": "dialogo",
+   "cor": "plum",
+   "falas": [
+    {
+     "quem": "ele",
+     "txt": "Participaste em algum concurso hoje?"
+    },
+    {
+     "quem": "ela",
+     "txt": "Não… porquê?"
+    },
+    {
+     "quem": "ele",
+     "txt": "É que tinhas ganho de certeza."
+    }
+   ],
+   "legenda": "Clássico com pinta 🏆\n\nEnvia a quem precisa disto 👇",
+   "hashtags": [
+    "#lisboa",
+    "#porto",
+    "#solteiros",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-1830",
+   "data": "2026-10-18",
+   "hora": "18:30"
+  },
+  {
+   "template": "marca",
+   "cor": "plum",
+   "texto": "Marca o amigo que diz «para a próxima falo com ela» desde 2019.",
+   "legenda": "Guarda para não te esqueceres.",
+   "hashtags": [
+    "#primeiroencontro",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-2030",
+   "data": "2026-10-18",
+   "hora": "20:30"
+  },
+  {
+   "template": "meme",
+   "cor": "plum",
+   "setup": "Os 3 segundos de silêncio depois do «olá»:",
+   "punch": "duram mais do que o meu último relacionamento. ⏳",
+   "story": true,
+   "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇",
+   "hashtags": [
+    "#memes",
+    "#humorportugues",
+    "#portugal",
+    "#zerotampas"
+   ],
+   "id": "s01-d7-2230",
+   "data": "2026-10-18",
+   "hora": "22:30"
+  }
+ ]
+}

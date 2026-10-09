@@ -1,0 +1,27 @@
+{
+  "semana": 0,
+  "fase": "posts fixados de apresentação (publicar à mão de 9 a 11 out e fixar no topo do perfil)",
+  "posts": [
+    {
+      "id": "fix-1-boas-vindas", "data": "2026-10-09", "hora": "20:00", "template": "tweet", "cor": "mag",
+      "texto": "Bem-vindo à Zero Tampas 🇵🇹\n\nAqui aprendes a meter conversa sem levar tampa: no café, no ginásio, na faculdade e nas apps.\n\nUma deixa nova todos os dias. Zero foleirices.",
+      "legenda": "Olá, Portugal 👋🇵🇹\n\nEsta página é para quem fica sem palavras na hora de dizer olá. Uma deixa por dia, humor sempre, respeito acima de tudo.\n\nSegue @zerotampas e envia ao amigo que precisa disto.",
+      "hashtags": ["#portugal", "#lisboa", "#porto", "#zerotampas"]
+    },
+    {
+      "id": "fix-2-regras", "data": "2026-10-10", "hora": "20:00", "template": "notas",
+      "titulo": "Regras da casa 🇵🇹",
+      "linhas": ["Humor, nunca truques", "Um «não» é um «não»", "Zero frases foleiras", "Treinar um bocadinho todos os dias"],
+      "rodape": "bem-vindo à Zero Tampas ↓",
+      "legenda": "As regras da casa 📌\n\nAqui não há técnicas para manipular ninguém. Há confiança, piada e respeito. É isso que funciona, e é isso que fica bem.\n\nGuarda este post.",
+      "hashtags": ["#portugal", "#respeito", "#confianca", "#zerotampas"]
+    },
+    {
+      "id": "fix-3-comenta-deixa", "data": "2026-10-11", "hora": "20:00", "template": "deixa", "cor": "sol", "numero": 0, "local": "Começa aqui",
+      "frase": "Comenta DEIXA em qualquer post e mando-te 3 deixas por mensagem. De borla.",
+      "rodape": "Segue <b>@zerotampas</b>: uma deixa por dia",
+      "legenda": "Começa por aqui 👇\n\nComenta DEIXA neste post (ou em qualquer outro) e recebes 3 deixas por mensagem: uma para o café, uma para a noite e uma para as apps.",
+      "hashtags": ["#portugal", "#dicas", "#zerotampas"]
+    }
+  ]
+}
