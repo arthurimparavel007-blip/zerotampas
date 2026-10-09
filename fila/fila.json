@@ -1,36 +1,36 @@
 [
   {
     "id": "fix-1-boas-vindas",
-    "quando_lisboa": "2026-10-09 20:00",
-    "quando_utc": "2026-10-09T19:00:00.000Z",
+    "quando_lisboa": "2026-10-09 08:30",
+    "quando_utc": "2026-10-09T07:30:00.000Z",
     "tipo": "IMAGE",
     "imagens": [
       "saida/semana-00/fix-1-boas-vindas-01.jpg"
     ],
     "legenda": "Olá, Portugal 👋🇵🇹\n\nEsta página é para quem fica sem palavras na hora de dizer olá. Uma deixa por dia, humor sempre, respeito acima de tudo.\n\nSegue @zerotampas e envia ao amigo que precisa disto.\n\n#portugal #lisboa #porto #zerotampas",
-    "publicado": "manual"
+    "publicado": false
   },
   {
     "id": "fix-2-regras",
-    "quando_lisboa": "2026-10-10 20:00",
-    "quando_utc": "2026-10-10T19:00:00.000Z",
+    "quando_lisboa": "2026-10-09 09:30",
+    "quando_utc": "2026-10-09T08:30:00.000Z",
     "tipo": "IMAGE",
     "imagens": [
       "saida/semana-00/fix-2-regras-01.jpg"
     ],
     "legenda": "As regras da casa 📌\n\nAqui não há técnicas para manipular ninguém. Há confiança, piada e respeito. É isso que funciona, e é isso que fica bem.\n\nGuarda este post.\n\n#portugal #respeito #confianca #zerotampas",
-    "publicado": "manual"
+    "publicado": false
   },
   {
     "id": "fix-3-comenta-deixa",
-    "quando_lisboa": "2026-10-11 20:00",
-    "quando_utc": "2026-10-11T19:00:00.000Z",
+    "quando_lisboa": "2026-10-09 10:30",
+    "quando_utc": "2026-10-09T09:30:00.000Z",
     "tipo": "IMAGE",
     "imagens": [
       "saida/semana-00/fix-3-comenta-deixa-01.jpg"
     ],
     "legenda": "Começa por aqui 👇\n\nComenta DEIXA neste post (ou em qualquer outro) e recebes 3 deixas por mensagem: uma para o café, uma para a noite e uma para as apps.\n\n#portugal #dicas #zerotampas",
-    "publicado": "manual"
+    "publicado": false
   },
   {
     "id": "s01-d1-0830",
