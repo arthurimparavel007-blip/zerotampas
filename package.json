@@ -1,0 +1,15 @@
+{
+  "name": "zero-tampas-automacao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gera e publica automaticamente os posts estáticos da página @zerotampas",
+  "scripts": {
+    "gerar": "node gerar.js",
+    "publicar": "node publicar.js"
+  },
+  "dependencies": {
+    "@fontsource/bricolage-grotesque": "^5.0.0",
+    "@fontsource/caveat": "^5.0.0",
+    "playwright": "^1.48.0"
+  }
+}

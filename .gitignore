@@ -1,0 +1,5 @@
+node_modules/
+.tmp.html
+.env
+.env.*
+!.env.example
