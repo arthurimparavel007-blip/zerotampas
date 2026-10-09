@@ -1,0 +1,43 @@
+ZERO TAMPAS · KIT DO PERFIL @zerotampas
+=========================================
+
+1) FOTO DE PERFIL
+   foto-perfil-A.png              → recomendada (limpa, lê-se bem em tamanho pequeno)
+   foto-perfil-B-portugal.png     → alternativa com a faixa verde e vermelha de Portugal
+
+2) NOME (campo "Nome", até 30 caracteres; entra na pesquisa do Instagram)
+   Recomendado:   Zero Tampas 🇵🇹 Deixas
+   Alternativa:   Zero Tampas | Conquista 🇵🇹
+
+3) BIO (até 150 caracteres) — escolha uma
+   A (recomendada)
+   🇵🇹 Menos tampas. Mais beijos.
+   Deixas que não são foleiras, todos os dias
+   👇 Comenta DEIXA em qualquer post
+
+   B
+   🇵🇹 Para quem fica sem palavras no café, no ginásio e no Tinder
+   Uma deixa por dia. Zero foleirices.
+   👇 Comenta DEIXA
+
+4) CATEGORIA E LOCAL (conta profissional → Criador digital)
+   Categoria: Criador digital
+   Opções de contacto → Morada: cidade "Lisboa, Portugal" (mostra Lisboa no perfil)
+
+5) LINK
+   Semana 1 (12–18 out): sem link (fase de crescimento, sem venda)
+   A partir de 19 out: link do checkout do guia (12,90 €)
+
+6) DESTAQUES (capas na mesma ordem)
+   destaque-deixas.png          → DEIXAS
+   destaque-foleiro-fixe.png    → FOLEIRO vs FIXE
+   destaque-stories.png         → STORIES
+   destaque-o-guia.png          → O GUIA   (criar só a 19 out)
+   destaque-perguntas.png       → PERGUNTAS
+   Para criar um destaque é preciso ter 1 story publicado: publique a capa como story, guarde nos destaques e use-a como capa.
+
+7) POSTS FIXADOS (publicar à mão e fixar no topo do perfil)
+   9 out, 20:00   fix-1-boas-vindas-01.jpg      (fixar)
+   10 out, 20:00  fix-2-regras-01.jpg           (fixar)
+   11 out, 20:00  fix-3-comenta-deixa-01.jpg    (fixar)
+   As legendas estão em automacao/conteudo/semana-00-fixados.json
