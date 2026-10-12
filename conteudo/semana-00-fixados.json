@@ -1,11 +1,11 @@
 {
  "semana": 0,
- "fase": "posts fixados de apresentação (publicados automaticamente na sexta, 9 out, de manhã; fixar no topo do perfil)",
+ "fase": "posts fixados de apresentação (publicados automaticamente na madrugada de 13 out em Lisboa; fixar no topo do perfil)",
  "posts": [
   {
    "id": "fix-1-boas-vindas",
-   "data": "2026-10-09",
-   "hora": "08:30",
+   "data": "2026-10-13",
+   "hora": "00:45",
    "template": "tweet",
    "cor": "mag",
    "texto": "Bem-vindo à Zero Tampas 🇵🇹\n\nAqui aprendes a meter conversa sem levar tampa: no café, no ginásio, na faculdade e nas apps.\n\nUma deixa nova todos os dias. Zero foleirices.",
@@ -19,8 +19,8 @@
   },
   {
    "id": "fix-2-regras",
-   "data": "2026-10-09",
-   "hora": "09:30",
+   "data": "2026-10-13",
+   "hora": "01:30",
    "template": "notas",
    "titulo": "Regras da casa 🇵🇹",
    "linhas": [
@@ -40,8 +40,8 @@
   },
   {
    "id": "fix-3-comenta-deixa",
-   "data": "2026-10-09",
-   "hora": "10:30",
+   "data": "2026-10-13",
+   "hora": "02:15",
    "template": "deixa",
    "cor": "sol",
    "numero": 0,
