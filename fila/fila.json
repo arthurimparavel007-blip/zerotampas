@@ -8,7 +8,9 @@
       "saida/semana-00/fix-1-boas-vindas-01.jpg"
     ],
     "legenda": "Olá, Portugal 👋🇵🇹\n\nEsta página é para quem fica sem palavras na hora de dizer olá. Uma deixa por dia, humor sempre, respeito acima de tudo.\n\nSegue @zerotampas e envia ao amigo que precisa disto.\n\n#portugal #lisboa #porto #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "erro": "17841422924070736/media_publish: {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AKGz-keG08lELYlBJNxJ_Zi\"}",
+    "tentativas": 1
   },
   {
     "id": "fix-2-regras",
