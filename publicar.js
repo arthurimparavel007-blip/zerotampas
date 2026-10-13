@@ -84,8 +84,19 @@ async function publicar(item) {
     ({ id: creationId } = await chamar('POST', `${IG_USER_ID}/media`, { media_type: 'CAROUSEL', children: filhos.join(','), caption: item.legenda }));
   }
   await aguardarPronto(creationId);
-  const { id: mediaId } = await chamar('POST', `${IG_USER_ID}/media_publish`, { creation_id: creationId });
-  return mediaId;
+  // A Meta às vezes diz FINISHED antes de o media estar mesmo disponível (erro 9007 / 2207027).
+  // Espera um pouco e tenta de novo, até 5 vezes.
+  for (let t = 1; ; t++) {
+    await espera(t === 1 ? 8000 : 20000);
+    try {
+      const { id: mediaId } = await chamar('POST', `${IG_USER_ID}/media_publish`, { creation_id: creationId });
+      return mediaId;
+    } catch (e) {
+      const ainda = /2207027|9007|not available|not ready/i.test(e.message);
+      if (!ainda || t >= 5) throw e;
+      console.log(`  media ainda não disponível, nova tentativa ${t + 1}/5…`);
+    }
+  }
 }
 
 (async () => {
