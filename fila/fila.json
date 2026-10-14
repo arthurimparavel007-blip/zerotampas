@@ -175,7 +175,9 @@
       "saida/semana-01/s01-d2-1230-05.jpg"
     ],
     "legenda": "A primeira mensagem decide tudo 📱\n\nMarca o amigo que ainda manda «olá tudo bem?» 😂\n\nMarca o amigo que vai usar isto 😂\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false
+    "publicado": true,
+    "media_id": "18099571961543549",
+    "publicado_em": "2026-10-14T12:02:39.188Z"
   },
   {
     "id": "s01-d2-1230-story",
@@ -186,7 +188,9 @@
       "saida/semana-01/s01-d2-1230-story.jpg"
     ],
     "legenda": "",
-    "publicado": false
+    "publicado": true,
+    "media_id": "18116581802087470",
+    "publicado_em": "2026-10-14T12:02:59.463Z"
   },
   {
     "id": "s01-d2-1800",
