@@ -240,7 +240,9 @@
       "saida/semana-01/s01-d3-0800-01.jpg"
     ],
     "legenda": "Deixa do dia #3 🧀\n\nPedir ajuda é a forma mais fácil de começar uma conversa. As pessoas gostam de ajudar.\n\nGuarda para não te esqueceres.\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false
+    "publicado": true,
+    "media_id": "17911601880518436",
+    "publicado_em": "2026-10-15T07:40:31.673Z"
   },
   {
     "id": "s01-d3-0800-story",
@@ -251,7 +253,9 @@
       "saida/semana-01/s01-d3-0800-story.jpg"
     ],
     "legenda": "",
-    "publicado": false
+    "publicado": true,
+    "media_id": "18113646176033887",
+    "publicado_em": "2026-10-15T07:40:50.061Z"
   },
   {
     "id": "s01-d3-1030",
