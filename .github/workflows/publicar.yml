@@ -30,6 +30,8 @@ jobs:
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}         # página do Facebook (opcional)
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}   # token da página (opcional)
           BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/
           VIDEO_BASE_URL_ALT: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ github.sha }}/
           GRAPH_HOST: graph.instagram.com
