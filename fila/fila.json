@@ -552,67 +552,73 @@
     "id": "s01-d5-1400",
     "quando_lisboa": "2026-10-17 14:00",
     "quando_utc": "2026-10-17T13:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d5-1400-01.jpg"
+      "saida/semana-01/reels/s01-d5-1400.mp4"
     ],
     "legenda": "Isto devia ser ensinado na escola.\n\nGuarda para não te esqueceres.\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 4709
   },
   {
     "id": "s01-d5-1530",
     "quando_lisboa": "2026-10-17 15:30",
     "quando_utc": "2026-10-17T14:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d5-1530-01.jpg"
+      "saida/semana-01/reels/s01-d5-1530.mp4"
     ],
     "legenda": "Outubro e já a pensar no Natal 🎄😏\n\nComenta DEIXA e mando-te mais, de borla 👇\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 8160
   },
   {
     "id": "s01-d5-1700",
     "quando_lisboa": "2026-10-17 17:00",
     "quando_utc": "2026-10-17T16:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d5-1700-01.jpg"
+      "saida/semana-01/reels/s01-d5-1700.mp4"
     ],
     "legenda": "Se já disseste alguma, não estás sozinho 😅\n\nPartilha nos teus stories 🔁\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 7733
   },
   {
     "id": "s01-d5-1830",
     "quando_lisboa": "2026-10-17 18:30",
     "quando_utc": "2026-10-17T17:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d5-1830-01.jpg"
+      "saida/semana-01/reels/s01-d5-1830.mp4"
     ],
     "legenda": "Marca o amigo que vai usar isto 😂\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 3645
   },
   {
     "id": "s01-d5-2030",
     "quando_lisboa": "2026-10-17 20:30",
     "quando_utc": "2026-10-17T19:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d5-2030-01.jpg"
+      "saida/semana-01/reels/s01-d5-2030.mp4"
     ],
     "legenda": "Partilha nos stories se te identificas 😅\n\nSegue @zerotampas para uma deixa por dia.\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d5-2230",
     "quando_lisboa": "2026-10-17 22:30",
     "quando_utc": "2026-10-17T21:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d5-2230-01.jpg"
+      "saida/semana-01/reels/s01-d5-2230.mp4"
     ],
     "legenda": "«Um dia» é o dia que nunca chega 📅\n\nEnvia a quem precisa disto 👇\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 9145
   },
   {
     "id": "s01-d5-2230-story",
@@ -629,12 +635,13 @@
     "id": "s01-d6-0800",
     "quando_lisboa": "2026-10-18 08:00",
     "quando_utc": "2026-10-18T07:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-0800-01.jpg"
+      "saida/semana-01/reels/s01-d6-0800.mp4"
     ],
     "legenda": "Deixa do dia #6 🐶\n\nOs animais abrem qualquer conversa. Ela diz o nome do cão, tu dizes o teu.\n\nGuarda para não te esqueceres.\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 3864
   },
   {
     "id": "s01-d6-0800-story",
@@ -651,40 +658,37 @@
     "id": "s01-d6-0930",
     "quando_lisboa": "2026-10-18 09:30",
     "quando_utc": "2026-10-18T08:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-0930-01.jpg"
+      "saida/semana-01/reels/s01-d6-0930.mp4"
     ],
     "legenda": "Até a gafe acaba em riso quando tens lata 😅\n\nComenta DEIXA e mando-te mais, de borla 👇\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 8415
   },
   {
     "id": "s01-d6-1100",
     "quando_lisboa": "2026-10-18 11:00",
     "quando_utc": "2026-10-18T10:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-1100-01.jpg"
+      "saida/semana-01/reels/s01-d6-1100.mp4"
     ],
     "legenda": "Marca o teu amigo com lata 😂\n\nPartilha nos teus stories 🔁\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d6-1230",
     "quando_lisboa": "2026-10-18 12:30",
     "quando_utc": "2026-10-18T11:30:00.000Z",
-    "tipo": "CAROUSEL",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-1230-01.jpg",
-      "saida/semana-01/s01-d6-1230-02.jpg",
-      "saida/semana-01/s01-d6-1230-03.jpg",
-      "saida/semana-01/s01-d6-1230-04.jpg",
-      "saida/semana-01/s01-d6-1230-05.jpg",
-      "saida/semana-01/s01-d6-1230-06.jpg",
-      "saida/semana-01/s01-d6-1230-07.jpg"
+      "saida/semana-01/reels/s01-d6-1230.mp4"
     ],
     "legenda": "A tampa bem levada esquece-se. A mal levada vira vergonha 🧢\n\nEnvia a quem precisa de ouvir isto.\n\nMarca o amigo que vai usar isto 😂\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 22159
   },
   {
     "id": "s01-d6-1230-story",
@@ -701,67 +705,73 @@
     "id": "s01-d6-1400",
     "quando_lisboa": "2026-10-18 14:00",
     "quando_utc": "2026-10-18T13:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-1400-01.jpg"
+      "saida/semana-01/reels/s01-d6-1400.mp4"
     ],
     "legenda": "Respeito e piada não têm idade 👵❤️\n\nSegue @zerotampas para uma deixa por dia.\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 7178
   },
   {
     "id": "s01-d6-1530",
     "quando_lisboa": "2026-10-18 15:30",
     "quando_utc": "2026-10-18T14:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-1530-01.jpg"
+      "saida/semana-01/reels/s01-d6-1530.mp4"
     ],
     "legenda": "Treina-se. Como no ginásio.\n\nEnvia a quem precisa disto 👇\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d6-1700",
     "quando_lisboa": "2026-10-18 17:00",
     "quando_utc": "2026-10-18T16:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-1700-01.jpg"
+      "saida/semana-01/reels/s01-d6-1700.mp4"
     ],
     "legenda": "Guarda para não te esqueceres.\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 4055
   },
   {
     "id": "s01-d6-1830",
     "quando_lisboa": "2026-10-18 18:30",
     "quando_utc": "2026-10-18T17:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-1830-01.jpg"
+      "saida/semana-01/reels/s01-d6-1830.mp4"
     ],
     "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5745
   },
   {
     "id": "s01-d6-2030",
     "quando_lisboa": "2026-10-18 20:30",
     "quando_utc": "2026-10-18T19:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-2030-01.jpg"
+      "saida/semana-01/reels/s01-d6-2030.mp4"
     ],
     "legenda": "Anota 📝\n\nPartilha nos teus stories 🔁\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d6-2230",
     "quando_lisboa": "2026-10-18 22:30",
     "quando_utc": "2026-10-18T21:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d6-2230-01.jpg"
+      "saida/semana-01/reels/s01-d6-2230.mp4"
     ],
     "legenda": "Direto ao assunto, com um sorriso 📞\n\nMarca o amigo que vai usar isto 😂\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 7324
   },
   {
     "id": "s01-d6-2230-story",
@@ -778,12 +788,13 @@
     "id": "s01-d7-0800",
     "quando_lisboa": "2026-10-19 08:00",
     "quando_utc": "2026-10-19T07:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-0800-01.jpg"
+      "saida/semana-01/reels/s01-d7-0800.mp4"
     ],
     "legenda": "Deixa do dia #7 🍕\n\nProvoca sobre gostos, nunca sobre o corpo. Ela vai querer defender a pizza dela.\n\nSegue @zerotampas para uma deixa por dia.\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 4864
   },
   {
     "id": "s01-d7-0800-story",
@@ -800,39 +811,37 @@
     "id": "s01-d7-0930",
     "quando_lisboa": "2026-10-19 09:30",
     "quando_utc": "2026-10-19T08:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-0930-01.jpg"
+      "saida/semana-01/reels/s01-d7-0930.mp4"
     ],
     "legenda": "Nova semana, nova lata 💪 Começa pequeno.\n\nEnvia a quem precisa disto 👇\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 8987
   },
   {
     "id": "s01-d7-1100",
     "quando_lisboa": "2026-10-19 11:00",
     "quando_utc": "2026-10-19T10:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-1100-01.jpg"
+      "saida/semana-01/reels/s01-d7-1100.mp4"
     ],
     "legenda": "Guarda para não te esqueceres.\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 3600
   },
   {
     "id": "s01-d7-1230",
     "quando_lisboa": "2026-10-19 12:30",
     "quando_utc": "2026-10-19T11:30:00.000Z",
-    "tipo": "CAROUSEL",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-1230-01.jpg",
-      "saida/semana-01/s01-d7-1230-02.jpg",
-      "saida/semana-01/s01-d7-1230-03.jpg",
-      "saida/semana-01/s01-d7-1230-04.jpg",
-      "saida/semana-01/s01-d7-1230-05.jpg",
-      "saida/semana-01/s01-d7-1230-06.jpg"
+      "saida/semana-01/reels/s01-d7-1230.mp4"
     ],
     "legenda": "Para de reagir com 🔥 aos stories dela 🙃\n\nGuarda e envia ao amigo que vive no visto.\n\nComenta DEIXA e mando-te mais, de borla 👇\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 23573
   },
   {
     "id": "s01-d7-1230-story",
@@ -849,67 +858,73 @@
     "id": "s01-d7-1400",
     "quando_lisboa": "2026-10-19 14:00",
     "quando_utc": "2026-10-19T13:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-1400-01.jpg"
+      "saida/semana-01/reels/s01-d7-1400.mp4"
     ],
     "legenda": "Não me julguem 🐶\n\nPartilha nos teus stories 🔁\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5027
   },
   {
     "id": "s01-d7-1530",
     "quando_lisboa": "2026-10-19 15:30",
     "quando_utc": "2026-10-19T14:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-1530-01.jpg"
+      "saida/semana-01/reels/s01-d7-1530.mp4"
     ],
     "legenda": "O emoji que acabou em conversa 🍿\n\nMarca o amigo que vai usar isto 😂\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 7505
   },
   {
     "id": "s01-d7-1700",
     "quando_lisboa": "2026-10-19 17:00",
     "quando_utc": "2026-10-19T16:00:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-1700-01.jpg"
+      "saida/semana-01/reels/s01-d7-1700.mp4"
     ],
     "legenda": "Simples assim.\n\nSegue @zerotampas para uma deixa por dia.\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d7-1830",
     "quando_lisboa": "2026-10-19 18:30",
     "quando_utc": "2026-10-19T17:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-1830-01.jpg"
+      "saida/semana-01/reels/s01-d7-1830.mp4"
     ],
     "legenda": "Clássico com pinta 🏆\n\nEnvia a quem precisa disto 👇\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 7796
   },
   {
     "id": "s01-d7-2030",
     "quando_lisboa": "2026-10-19 20:30",
     "quando_utc": "2026-10-19T19:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-2030-01.jpg"
+      "saida/semana-01/reels/s01-d7-2030.mp4"
     ],
     "legenda": "Guarda para não te esqueceres.\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 4464
   },
   {
     "id": "s01-d7-2230",
     "quando_lisboa": "2026-10-19 22:30",
     "quando_utc": "2026-10-19T21:30:00.000Z",
-    "tipo": "IMAGE",
+    "tipo": "REELS",
     "imagens": [
-      "saida/semana-01/s01-d7-2230-01.jpg"
+      "saida/semana-01/reels/s01-d7-2230.mp4"
     ],
     "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false
+    "publicado": false,
+    "thumb_offset_ms": 6291
   },
   {
     "id": "s01-d7-2230-story",
