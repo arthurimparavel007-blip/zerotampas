@@ -56,20 +56,33 @@ async function chamar(metodo, rota, params = {}) {
 }
 
 // Espera o contentor ficar pronto (a Meta pede no máximo 1 consulta por minuto, até 5 minutos)
-async function aguardarPronto(id) {
-  for (let i = 0; i < 5; i++) {
-    const { status_code } = await chamar('GET', id, { fields: 'status_code' });
-    if (status_code === 'FINISHED') return;
-    if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error(`Contentor ${id}: ${status_code}`);
-    await espera(i === 0 ? 5000 : 60000);
+// Vídeo (Reels) demora mais a processar: até ~8 min, a consultar de 30 em 30 s.
+async function aguardarPronto(id, video = false) {
+  const max = video ? 16 : 5;
+  for (let i = 0; i < max; i++) {
+    const r = await chamar('GET', id, { fields: video ? 'status_code,status' : 'status_code' });
+    if (r.status_code === 'FINISHED') return;
+    if (r.status_code === 'ERROR' || r.status_code === 'EXPIRED') throw new Error(`Contentor ${id}: ${r.status_code} ${r.status || ''}`);
+    await espera(video ? (i === 0 ? 15000 : 30000) : (i === 0 ? 5000 : 60000));
   }
-  throw new Error(`Contentor ${id} não ficou pronto em 5 minutos`);
+  throw new Error(`Contentor ${id} não ficou pronto a tempo`);
+}
+
+// Cria o contentor de um Reel (sem publicar). Usado também pelo modo de teste.
+async function contentorReel(item, url) {
+  const params = { media_type: 'REELS', video_url: url, caption: item.legenda, share_to_feed: 'true' };
+  if (item.thumb_offset_ms) params.thumb_offset = String(item.thumb_offset_ms);
+  const { id } = await chamar('POST', `${IG_USER_ID}/media`, params);
+  await aguardarPronto(id, true);
+  return id;
 }
 
 async function publicar(item) {
   const urls = item.imagens.map(p => BASE_URL + p.split('/').map(encodeURIComponent).join('/'));
   let creationId;
-  if (item.tipo === 'STORY') {
+  if (item.tipo === 'REELS') {
+    creationId = await contentorReel(item, urls[0]);
+  } else if (item.tipo === 'STORY') {
     ({ id: creationId } = await chamar('POST', `${IG_USER_ID}/media`, { image_url: urls[0], media_type: 'STORIES' }));
   } else if (urls.length === 1) {
     ({ id: creationId } = await chamar('POST', `${IG_USER_ID}/media`, { image_url: urls[0], caption: item.legenda }));
@@ -83,7 +96,7 @@ async function publicar(item) {
     for (const f of filhos) await aguardarPronto(f);
     ({ id: creationId } = await chamar('POST', `${IG_USER_ID}/media`, { media_type: 'CAROUSEL', children: filhos.join(','), caption: item.legenda }));
   }
-  await aguardarPronto(creationId);
+  if (item.tipo !== 'REELS') await aguardarPronto(creationId);
   // A Meta às vezes diz FINISHED antes de o media estar mesmo disponível (erro 9007 / 2207027).
   // Espera um pouco e tenta de novo, até 5 vezes.
   for (let t = 1; ; t++) {
@@ -102,6 +115,18 @@ async function publicar(item) {
 (async () => {
   if (!DRY_RUN && (!IG_ACCESS_TOKEN || !BASE_URL)) {
     console.error('Faltam variáveis: IG_ACCESS_TOKEN e BASE_URL.'); process.exit(1);
+  }
+  if (process.env.TESTE_REEL) {
+    // Modo de teste: cria o contentor do próximo Reel e espera o processamento, SEM publicar.
+    const fila0 = JSON.parse(fs.readFileSync(FILA, 'utf8'));
+    const it = fila0.find(f => !f.publicado && f.tipo === 'REELS');
+    if (!it) { console.log('Não há Reels pendentes na fila.'); return; }
+    if (!IG_USER_ID) { const me = await chamar('GET', 'me', { fields: 'user_id,username' }); IG_USER_ID = me.user_id || me.id; }
+    const url = BASE_URL + it.imagens[0].split('/').map(encodeURIComponent).join('/');
+    console.log(`[TESTE] ${it.id} · ${url}`);
+    const id = await contentorReel(it, url);
+    console.log(`[TESTE] ✓ contentor ${id} processado (FINISHED). Nada foi publicado; o contentor expira sozinho em 24 h.`);
+    return;
   }
   if (fs.existsSync(PAUSA)) { console.log('PAUSA ativa: ' + fs.readFileSync(PAUSA, 'utf8').trim() + '\nApague o ficheiro PAUSA para retomar.'); return; }
   const fila = JSON.parse(fs.readFileSync(FILA, 'utf8'));
