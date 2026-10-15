@@ -39,7 +39,8 @@ jobs:
         run: |
           npm ci || npm install
           npx playwright install --with-deps chromium
-          sudo apt-get install -y fonts-noto-color-emoji
+          sudo apt-get install -y fonts-noto-color-emoji ffmpeg
+          pip install numpy scipy
       - name: Configurar git
         run: |
           git config user.name "zerotampas-claude"
@@ -60,7 +61,7 @@ jobs:
           prompt: ${{ github.event.inputs.comando || '/gerar-semana' }}
           claude_args: |
             --max-turns 120
-            --allowedTools "Bash(node:*),Bash(python3:*),Bash(git:*),Bash(npx:*),Bash(npm:*),Bash(ls:*),Bash(date:*),Read,Write,Edit,Glob,Grep"
+            --allowedTools "Bash(node:*),Bash(python3:*),Bash(git:*),Bash(npx:*),Bash(npm:*),Bash(ls:*),Bash(date:*),Bash(ffmpeg:*),Bash(ffprobe:*),Read,Write,Edit,Glob,Grep"
       - name: Resumo no GitHub
         if: always()
         run: |
