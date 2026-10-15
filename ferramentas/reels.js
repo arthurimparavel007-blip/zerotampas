@@ -151,6 +151,7 @@ const CENA = {
 function fimCard(t, post) {
   let cta = (post.cta === 'seguir' || !post.cta) ? ['Segue @zerotampas', 'uma deixa nova todos os dias 🇵🇹'] : ['Comenta DEIXA', 'e mando-te mais 3 de borla'];
   if (post.template === 'marca') cta = ['Marca quem precisa', 'e segue @zerotampas 🇵🇹'];
+  if (/Comenta DEIXA e mando-te 3 de borla/.test(post.legenda || '')) cta = ['Comenta DEIXA', 'e mando-te 3 de borla 👇']; // posts de venda
   if (post.template === 'bloqueada') cta = ['Comenta DEIXA', 'e desbloqueia as outras 👇'];
   return `<div class="stage" data-in="${t}" data-fx="wipe" style="background:var(--ink);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:40px;color:#fff;padding:0 60px">
     <div style="width:300px;height:300px">${CAP}</div>
