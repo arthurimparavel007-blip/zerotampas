@@ -31,6 +31,7 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/
+          VIDEO_BASE_URL_ALT: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ github.sha }}/
           GRAPH_HOST: graph.instagram.com
           MAX_POR_DIA: '15'       # baixe para 10 depois de uma PAUSA
           ATRASO_MAX_H: '3'       # posts com +3 h de atraso não saem em rajada
