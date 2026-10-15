@@ -41,6 +41,9 @@ A fonte de verdade das datas, do preço e do link é `config/produto.json`. **Se
 6. **Nunca fazer commit de tokens.** O `IG_ACCESS_TOKEN` só existe nos Secrets do GitHub ou numa variável de ambiente.
 7. Antes de gerar, corre sempre `python3 ferramentas/validar.py`. Se der erro, não se publica.
 
+## Formato: só Reels (desde 15/10/2026)
+A página publica **apenas Reels** (os estáticos não chegam a quem não segue). Cada post é desenhado com os templates abaixo e depois animado por `ferramentas/reels.js`: trilha original (`ferramentas/trilha.py`), aviso «👆 Segue e ↗ partilha com um amigo» durante o vídeo e cartão final. `ferramentas/converter_reels.py` troca na fila os posts por `tipo: "REELS"` e cancela as stories. O volume diário mantém-se.
+
 ## Paleta e templates
 Cores (`cor`): `mag` #FF2D87 · `tan` #FF7A2F · `sol` #FFD84A · `plum` #3E0F45 · tinta #2A0B2D · blush #FFEAF2. Não repetir a mesma cor em posts seguidos.
 
@@ -79,6 +82,9 @@ ferramentas/agendar.py         rascunho → semana-NN.json (horas, ids, hashtags
 ferramentas/validar.py         verifica língua, respeito, fase, repetidos, horários, volume
 ferramentas/estado.js          estado da fila / pausa / quanto conteúdo falta (--json)
 ferramentas/mock-graph.js      API falsa para testar sem publicar
+ferramentas/reels.js           semana-NN.json → saida/semana-NN/reels/<id>.mp4 (vídeo + trilha + aviso segue/partilha)
+ferramentas/trilha.py          trilha sonora original sintetizada (sem direitos de terceiros)
+ferramentas/converter_reels.py fila: posts pendentes → REELS, stories → cancelado
 gerar.js                       semana-NN.json → saida/semana-NN/*.jpg + fila/fila.json
 publicar.js                    publica o que está na hora (corre no GitHub a cada 30 min)
 insights.js                    métricas → dados/insights.json, dados/ranking.md, dados/seguidores.csv
