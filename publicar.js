@@ -69,19 +69,35 @@ async function aguardarPronto(id, video = false) {
 }
 
 // Cria o contentor de um Reel (sem publicar). Usado também pelo modo de teste.
-async function contentorReel(item, url) {
-  const params = { media_type: 'REELS', video_url: url, caption: item.legenda, share_to_feed: 'true' };
-  if (item.thumb_offset_ms) params.thumb_offset = String(item.thumb_offset_ms);
-  const { id } = await chamar('POST', `${IG_USER_ID}/media`, params);
-  await aguardarPronto(id, true);
-  return id;
+// Tenta primeiro o BASE_URL (raw do GitHub); se a Meta recusar o vídeo, tenta o VIDEO_BASE_URL_ALT
+// (jsDelivr fixado no commit, que serve o ficheiro como video/mp4).
+const caminhoUrl = p => p.split('/').map(encodeURIComponent).join('/');
+async function contentorReel(item, caminho) {
+  const bases = [BASE_URL, process.env.VIDEO_BASE_URL_ALT].filter(Boolean);
+  let ultimoErro;
+  for (const base of bases) {
+    const url = base + caminhoUrl(caminho);
+    const params = { media_type: 'REELS', video_url: url, caption: item.legenda, share_to_feed: 'true' };
+    if (item.thumb_offset_ms) params.thumb_offset = String(item.thumb_offset_ms);
+    try {
+      const { id } = await chamar('POST', `${IG_USER_ID}/media`, params);
+      await aguardarPronto(id, true);
+      console.log(`  vídeo aceite: ${url}`);
+      return id;
+    } catch (e) {
+      if (e.bloqueio) throw e;
+      ultimoErro = e;
+      console.log(`  vídeo recusado em ${url}: ${e.message.slice(0, 200)}`);
+    }
+  }
+  throw ultimoErro;
 }
 
 async function publicar(item) {
   const urls = item.imagens.map(p => BASE_URL + p.split('/').map(encodeURIComponent).join('/'));
   let creationId;
   if (item.tipo === 'REELS') {
-    creationId = await contentorReel(item, urls[0]);
+    creationId = await contentorReel(item, item.imagens[0]);
   } else if (item.tipo === 'STORY') {
     ({ id: creationId } = await chamar('POST', `${IG_USER_ID}/media`, { image_url: urls[0], media_type: 'STORIES' }));
   } else if (urls.length === 1) {
@@ -122,9 +138,8 @@ async function publicar(item) {
     const it = fila0.find(f => !f.publicado && f.tipo === 'REELS');
     if (!it) { console.log('Não há Reels pendentes na fila.'); return; }
     if (!IG_USER_ID) { const me = await chamar('GET', 'me', { fields: 'user_id,username' }); IG_USER_ID = me.user_id || me.id; }
-    const url = BASE_URL + it.imagens[0].split('/').map(encodeURIComponent).join('/');
-    console.log(`[TESTE] ${it.id} · ${url}`);
-    const id = await contentorReel(it, url);
+    console.log(`[TESTE] ${it.id} · ${it.imagens[0]}`);
+    const id = await contentorReel(it, it.imagens[0]);
     console.log(`[TESTE] ✓ contentor ${id} processado (FINISHED). Nada foi publicado; o contentor expira sozinho em 24 h.`);
     return;
   }
