@@ -98,8 +98,18 @@ async function contentorReel(item, caminho) {
 // ---------- Facebook: o mesmo Reel na página ----------
 const { FB_PAGE_ID, FB_PAGE_TOKEN } = process.env;
 const FB_API = (process.env.FB_GRAPH || 'https://graph.facebook.com') + '/' + VER;
+let FB_TOKEN = null; // token da página (obtido a partir do token do usuário do sistema, se for o caso)
+async function tokenDaPagina() {
+  if (FB_TOKEN) return FB_TOKEN;
+  try {
+    const r = await fetch(`${FB_API}/${FB_PAGE_ID}?${new URLSearchParams({ fields: 'access_token', access_token: FB_PAGE_TOKEN })}`);
+    const j = await r.json();
+    FB_TOKEN = j.access_token || FB_PAGE_TOKEN;
+  } catch (_) { FB_TOKEN = FB_PAGE_TOKEN; }
+  return FB_TOKEN;
+}
 async function fb(metodo, url, params = {}, headers = {}) {
-  const body = new URLSearchParams({ ...params, access_token: FB_PAGE_TOKEN });
+  const body = new URLSearchParams({ ...params, access_token: await tokenDaPagina() });
   const res = metodo === 'GET' ? await fetch(`${url}?${body}`) : await fetch(url, { method: 'POST', body, headers });
   const j = await res.json().catch(() => ({}));
   if (!res.ok || j.error) throw new Error(`FB ${url.split('/').slice(-2).join('/')}: ${JSON.stringify(j.error || j).slice(0, 300)}`);
@@ -108,7 +118,7 @@ async function fb(metodo, url, params = {}, headers = {}) {
 async function publicarFacebook(item) {
   const videoUrl = BASE_URL + caminhoUrl(item.imagens[0]);
   const { video_id, upload_url } = await fb('POST', `${FB_API}/${FB_PAGE_ID}/video_reels`, { upload_phase: 'start' });
-  const up = await fetch(upload_url, { method: 'POST', headers: { Authorization: `OAuth ${FB_PAGE_TOKEN}`, file_url: videoUrl } });
+  const up = await fetch(upload_url, { method: 'POST', headers: { Authorization: `OAuth ${await tokenDaPagina()}`, file_url: videoUrl } });
   const upj = await up.json().catch(() => ({}));
   if (!up.ok || upj.error || upj.success === false) throw new Error(`FB upload: ${JSON.stringify(upj).slice(0, 300)}`);
   await fb('POST', `${FB_API}/${FB_PAGE_ID}/video_reels`, { upload_phase: 'finish', video_id, video_state: 'PUBLISHED', description: item.legenda });
