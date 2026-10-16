@@ -435,8 +435,13 @@
       "saida/semana-01/reels/s01-d4-1400.mp4"
     ],
     "legenda": "A diferença não é a cara. É a mensagem 👀\n\nEnvia ao amigo que vive no visto.\n\nMarca o amigo que vai usar isto 😂\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 8750
+    "publicado": true,
+    "thumb_offset_ms": 8750,
+    "media_id": "18083013140380990",
+    "publicado_em": "2026-10-16T13:15:56.441Z",
+    "comentario": true,
+    "fb_video_id": "1433500608910868",
+    "fb": true
   },
   {
     "id": "s01-d4-1630",
