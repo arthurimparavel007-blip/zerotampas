@@ -188,6 +188,14 @@ async function publicar(item) {
     // Modo de teste: cria o contentor do próximo Reel e espera o processamento, SEM publicar.
     const fila0 = JSON.parse(fs.readFileSync(FILA, 'utf8'));
     const it = fila0.find(f => !f.publicado && f.tipo === 'REELS');
+    if (FB_PAGE_ID && FB_PAGE_TOKEN) {
+      try {
+        const t = await tokenDaPagina();
+        const pg = await (await fetch(`${FB_API}/${FB_PAGE_ID}?${new URLSearchParams({ fields: 'name,id', access_token: t })}`)).json();
+        if (pg.error) console.log(`[TESTE] ✗ Facebook: ${JSON.stringify(pg.error).slice(0, 300)}`);
+        else console.log(`[TESTE] ✓ Facebook: acesso à página "${pg.name}" (${pg.id}) ${t === FB_PAGE_TOKEN ? 'com o token direto' : 'com token de página'}`);
+      } catch (e) { console.log('[TESTE] ✗ Facebook: ' + e.message); }
+    } else console.log('[TESTE] Facebook não configurado (faltam FB_PAGE_ID/FB_PAGE_TOKEN)');
     if (!it) { console.log('Não há Reels pendentes na fila.'); return; }
     if (!IG_USER_ID) { const me = await chamar('GET', 'me', { fields: 'user_id,username' }); IG_USER_ID = me.user_id || me.id; }
     console.log(`[TESTE] ${it.id} · ${it.imagens[0]}`);
