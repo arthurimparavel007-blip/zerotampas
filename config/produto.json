@@ -5,7 +5,7 @@
   "preco": "12,90 €",
   "preco_ancora": "57 €",
   "pagamento": "MB WAY · Multibanco · cartão",
-  "link_checkout": "",
+  "link_checkout": "https://pay.hotmart.com/B108059714W",
   "palavra_chave_manychat": "DEIXA",
   "palavras_chave_extra": [
     "DESAFIO"
@@ -14,5 +14,7 @@
   "inicio_semana_1": "2026-10-13",
   "data_lancamento": "2026-10-20",
   "volume_maximo_feed_por_dia": 10,
-  "max_por_dia_publicador": 15
+  "max_por_dia_publicador": 15,
+  "pagina_vendas": "https://zerotampas.github.io/",
+  "garantia_dias": 15
 }
