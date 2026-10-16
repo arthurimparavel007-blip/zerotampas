@@ -17,8 +17,16 @@ http.createServer((req, res) => {
     const p = new URLSearchParams(b || u.search);
     let out, st = 200;
     const rota = u.pathname.split('/').filter(Boolean).slice(1); // sem a versão
-    if (rota[1] === 'content_publishing_limit') out = { data: [{ quota_usage: pubs, config: { quota_total: 100, quota_duration: 86400 } }] };
-    else if (req.method === 'POST' && rota[1] === 'media') { n++; out = { id: 'c' + n }; console.log('[mock] media', p.get('media_type') || 'IMAGE', (p.get('image_url') || '').split('/').pop()); }
+    if (req.method === 'POST' && rota[1] === 'comments') {
+      if (process.env.COMENT_ERRO) { st = 400; out = { error: { message: '(#10) Application does not have permission for this action', code: 10 } }; }
+      else { out = { id: 'cm' + (++n) }; console.log('[mock] comentário:', p.get('message')); }
+    }
+    else if (u.pathname.startsWith('/upload/')) { out = { success: true }; console.log('[mock] fb upload', req.headers.file_url); }
+    else if (rota[1] === 'video_reels' && p.get('upload_phase') === 'start') out = { video_id: 'v' + (++n), upload_url: `http://localhost:${PORT}/upload/v${n}` };
+    else if (rota[1] === 'video_reels' && p.get('upload_phase') === 'finish') { out = { success: true }; console.log('[mock] fb reel publicado', p.get('video_id')); }
+    else if (rota.length === 1 && String(rota[0]).startsWith('v') && p.get('fields') === 'status') out = { status: { video_status: 'ready' } };
+    else if (rota[1] === 'content_publishing_limit') out = { data: [{ quota_usage: pubs, config: { quota_total: 100, quota_duration: 86400 } }] };
+    else if (req.method === 'POST' && rota[1] === 'media') { n++; out = { id: 'c' + n }; console.log('[mock] media', p.get('media_type') || 'IMAGE', (p.get('image_url') || p.get('video_url') || '').split('/').pop(), p.get('trial_params') ? 'TRIAL ' + p.get('trial_params') : ''); }
     else if (req.method === 'POST' && rota[1] === 'media_publish') {
       if (pubs >= BLOQ) { st = 400; out = { error: { message: 'Application request limit reached', code: 4 } }; }
       else { pubs++; const id = '1790000000' + pubs; publicados.push(id); out = { id }; }
