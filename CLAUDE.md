@@ -44,6 +44,8 @@ A fonte de verdade das datas, do preço e do link é `config/produto.json`. **Se
 ## Formato: só Reels (desde 15/10/2026)
 A página publica **apenas Reels** (os estáticos não chegam a quem não segue). Cada post é desenhado com os templates abaixo e depois animado por `ferramentas/reels.js`: trilha original (`ferramentas/trilha.py`), aviso «👆 Segue e ↗ partilha com um amigo» durante o vídeo e cartão final. `ferramentas/converter_reels.py` troca na fila os posts por `tipo: "REELS"` e cancela as stories. O volume diário mantém-se.
 
+Cada Reel sai também na página do Facebook (Reviva15, secrets `FB_PAGE_ID`/`FB_PAGE_TOKEN`). Depois de publicar, o `publicar.js` deixa um 1.º comentário com uma pergunta (precisa da permissão `instagram_business_manage_comments` no token; `SEM_COMENTARIO=1` desliga) e, com ≥ 1000 seguidores, publica como Trial Reel nas `TRIAL_HORAS` (por defeito 11:00 e 15:30, nunca posts de venda).
+
 ## Paleta e templates
 Cores (`cor`): `mag` #FF2D87 · `tan` #FF7A2F · `sol` #FFD84A · `plum` #3E0F45 · tinta #2A0B2D · blush #FFEAF2. Não repetir a mesma cor em posts seguidos.
 
@@ -85,6 +87,7 @@ ferramentas/mock-graph.js      API falsa para testar sem publicar
 ferramentas/reels.js           semana-NN.json → saida/semana-NN/reels/<id>.mp4 (vídeo + trilha + aviso segue/partilha)
 ferramentas/trilha.py          trilha sonora original sintetizada (sem direitos de terceiros)
 ferramentas/converter_reels.py fila: posts pendentes → REELS, stories → cancelado
+ferramentas/seo.py             fila: linha de palavras-chave antes das hashtags (idempotente)
 gerar.js                       semana-NN.json → saida/semana-NN/*.jpg + fila/fila.json
 publicar.js                    publica o que está na hora (corre no GitHub a cada 30 min)
 insights.js                    métricas → dados/insights.json, dados/ranking.md, dados/seguidores.csv
