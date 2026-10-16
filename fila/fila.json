@@ -362,8 +362,13 @@
       "saida/semana-01/reels/s01-d4-0800.mp4"
     ],
     "legenda": "Deixa do dia #4 🎓\n\nO sofrimento partilhado une mais do que qualquer deixa decorada.\n\nGuarda para não te esqueceres.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 5600
+    "publicado": true,
+    "thumb_offset_ms": 5600,
+    "media_id": "18644208097038454",
+    "publicado_em": "2026-10-16T07:38:12.516Z",
+    "comentario": true,
+    "fb_video_id": "1115753951036863",
+    "fb": true
   },
   {
     "id": "s01-d4-0800-story",
