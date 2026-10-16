@@ -37,7 +37,7 @@ A fonte de verdade das datas, do preço e do link é `config/produto.json`. **Se
 2. **Respeito.** Nada de manipulação, insistência depois de um «não», comentários sexuais ou sobre o corpo, nem «técnicas» de pressão. Um «não» encerra com elegância, e isso também é conteúdo.
 3. **Persona de marca.** A página é a Zero Tampas, com tampinha e paleta. Nunca se inventa uma pessoa falsa, nem caras ou testemunhos gerados por IA.
 4. **Máximo 5 hashtags** por post (regra do Instagram). Rodar conjuntos e incluir sempre `#zerotampas`.
-5. **Volume com travões.** Máximo de 10–12 posts de feed por dia, ≥ 45 min entre posts, publicações entre 07:30 e 23:30, e feed + stories ≤ `MAX_POR_DIA` (15). Nunca subir o volume na semana a seguir a uma `PAUSA`.
+5. **Volume atual: 3 Reels por dia (08:00, 12:30 e 22:30), desde 16/10/2026,** porque a conta nova ficou com 0 visualizações. Não subir sem o dono pedir e sem as visualizações voltarem. Os posts que saíram da fila ficam com `publicado: "reserva"` e podem ser reaproveitados. Limites gerais: Máximo de 10–12 posts de feed por dia, ≥ 45 min entre posts, publicações entre 07:30 e 23:30, e feed + stories ≤ `MAX_POR_DIA` (15). Nunca subir o volume na semana a seguir a uma `PAUSA`.
 6. **Nunca fazer commit de tokens.** O `IG_ACCESS_TOKEN` só existe nos Secrets do GitHub ou numa variável de ambiente.
 7. Antes de gerar, corre sempre `python3 ferramentas/validar.py`. Se der erro, não se publica.
 
