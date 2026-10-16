@@ -74,20 +74,90 @@ async function aguardarPronto(id, video = false) {
 // Tenta primeiro o BASE_URL (raw do GitHub); se a Meta recusar o vídeo, tenta o VIDEO_BASE_URL_ALT
 // (jsDelivr fixado no commit, que serve o ficheiro como video/mp4).
 const caminhoUrl = p => p.split('/').map(encodeURIComponent).join('/');
+// ---------- Crescimento ----------
+// Reels de teste (Trial Reels): mostrados primeiro só a quem não segue. A Meta só os permite a partir de
+// 1.000 seguidores, por isso ligam-se sozinhos quando a conta lá chegar. Horas em TRIAL_HORAS (Lisboa).
+const TRIAL_MIN_SEGUIDORES = Number(process.env.TRIAL_MIN_SEGUIDORES || 1000);
+const TRIAL_HORAS = (process.env.TRIAL_HORAS ?? '11:00,15:30').split(',').map(x => x.trim()).filter(Boolean);
+let seguidores = null;
+async function contaSeguidores() {
+  if (seguidores !== null) return seguidores;
+  try { seguidores = (await chamar('GET', IG_USER_ID, { fields: 'followers_count' })).followers_count ?? 0; } catch (_) { seguidores = 0; }
+  return seguidores;
+}
+async function usarTrial(item) {
+  if (process.env.TESTE_REEL || item.trial === false) return false;
+  const hora = (item.quando_lisboa || '').slice(11, 16);
+  if (!(item.trial === true || TRIAL_HORAS.includes(hora))) return false;
+  if (/Comenta DEIXA e mando-te/.test(item.legenda || '')) return false; // vendas vão sempre para os seguidores
+  return (await contaSeguidores()) >= TRIAL_MIN_SEGUIDORES;
+}
+
+// Primeiro comentário automático (pergunta que puxa respostas na 1.ª hora). Precisa da permissão
+// instagram_business_manage_comments no token; sem ela, o publicador avisa e segue em frente.
+const PERGUNTAS = {
+  deixa: ['Usavas esta? Sim ou não 👇', 'Nota de 0 a 10 para esta deixa 👇', 'Onde é que a usavas? 👇'],
+  dialogo: ['Nota de 0 a 10 para a lata dele 👇', 'Ela respondeu bem ou mal? 👇', 'O que dizias a seguir? 👇'],
+  tweet: ['Concordas? 👇', 'Já te aconteceu? 👇', 'Verdade ou mentira? 👇'],
+  marca: ['Marca já quem é 👇', 'Quem foi o primeiro nome que te veio à cabeça? 👇'],
+  meme: ['Já te aconteceu? 😂', 'Sê sincero: és tu? 👇'],
+  notas: ['O que falta nesta lista? 👇', 'Qual destas é a mais difícil? 👇'],
+  chat: ['Tu mandavas qual: a de cima ou a de baixo? 👇', 'Já ficaste no visto assim? 👇'],
+  lista: ['Qual vais testar primeiro? 👇', 'Guarda e diz-me qual é a tua preferida 👇'],
+  vs: ['Já fizeste algum dos foleiros? Confessa 👇', 'Qual é o pior foleiro desta lista? 👇'],
+  bloqueada: ['Comenta DEIXA e mando-te as outras duas 👇'],
+};
+let TEMPLATES = null;
+function templateDe(id) {
+  if (!TEMPLATES) {
+    TEMPLATES = {};
+    try {
+      const dir = path.join(__dirname, 'conteudo');
+      for (const f of fs.readdirSync(dir).filter(n => /^semana-\d+.*\.json$/.test(n)))
+        for (const p of JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')).posts || []) TEMPLATES[p.id] = p.template;
+    } catch (_) {}
+  }
+  return TEMPLATES[id];
+}
+let semPermComentario = false;
+async function primeiroComentario(item) {
+  if (!item.media_id || item.comentario || semPermComentario || process.env.SEM_COMENTARIO) return;
+  const ops = PERGUNTAS[templateDe(item.id)] || PERGUNTAS.tweet;
+  const msg = ops[[...item.id].reduce((a, c) => a + c.charCodeAt(0), 0) % ops.length];
+  try {
+    await espera(5000);
+    await chamar('POST', `${item.media_id}/comments`, { message: msg });
+    item.comentario = true;
+    console.log(`  ✓ 1.º comentário: ${msg}`);
+  } catch (e) {
+    if (/permission|\(#10\)|\(#200\)|"code":(10|200|190)/i.test(e.message)) {
+      semPermComentario = true; item.comentario = 'sem_permissao';
+      console.log('  ⚠ 1.º comentário: o token não tem a permissão instagram_business_manage_comments (gerar token novo).');
+    } else { item.comentario = 'falhou'; console.log('  ✗ 1.º comentário: ' + e.message.slice(0, 200)); }
+  }
+}
+
 async function contentorReel(item, caminho) {
   const bases = [BASE_URL, process.env.VIDEO_BASE_URL_ALT].filter(Boolean);
   let ultimoErro;
+  let trial = await usarTrial(item);
   for (const base of bases) {
     const url = base + caminhoUrl(caminho);
     const params = { media_type: 'REELS', video_url: url, caption: item.legenda, share_to_feed: 'true' };
     if (item.thumb_offset_ms) params.thumb_offset = String(item.thumb_offset_ms);
+    if (trial) params.trial_params = JSON.stringify({ graduation_strategy: 'SS_PERFORMANCE' });
     try {
       const { id } = await chamar('POST', `${IG_USER_ID}/media`, params);
       await aguardarPronto(id, true);
-      console.log(`  vídeo aceite: ${url}`);
+      console.log(`  vídeo aceite: ${url}${trial ? ' (Reel de teste: primeiro só para quem não segue)' : ''}`);
+      if (trial) item.trial = 'usado';
       return id;
     } catch (e) {
       if (e.bloqueio) throw e;
+      if (trial && /trial/i.test(e.message)) {
+        console.log('  Reel de teste recusado, sai como Reel normal'); trial = false; item.trial = false;
+        try { const p2 = { ...params }; delete p2.trial_params; const { id } = await chamar('POST', `${IG_USER_ID}/media`, p2); await aguardarPronto(id, true); return id; } catch (e2) { if (e2.bloqueio) throw e2; ultimoErro = e2; continue; }
+      }
       ultimoErro = e;
       console.log(`  vídeo recusado em ${url}: ${e.message.slice(0, 200)}`);
     }
@@ -246,6 +316,7 @@ async function publicar(item) {
       item.publicado_em = new Date().toISOString();
       console.log(`  ✓ publicado · media ${item.media_id}`);
       fs.writeFileSync(FILA, JSON.stringify(fila, null, 2));
+      if (item.tipo === 'REELS') await primeiroComentario(item);
       await tentarFacebook(item);
     } catch (e) {
       item.erro = String(e.message).slice(0, 500);
