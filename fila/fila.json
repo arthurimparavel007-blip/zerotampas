@@ -679,8 +679,13 @@
       "saida/semana-01/reels/s01-d6-0800.mp4"
     ],
     "legenda": "Deixa do dia #6 🐶\n\nOs animais abrem qualquer conversa. Ela diz o nome do cão, tu dizes o teu.\n\nGuarda para não te esqueceres.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 3864
+    "publicado": true,
+    "thumb_offset_ms": 3864,
+    "media_id": "18106614505977609",
+    "publicado_em": "2026-10-18T07:32:18.319Z",
+    "comentario": true,
+    "fb_video_id": "2077382112946702",
+    "fb": true
   },
   {
     "id": "s01-d6-0800-story",
