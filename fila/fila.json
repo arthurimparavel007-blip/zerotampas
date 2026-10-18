@@ -819,8 +819,13 @@
       "saida/semana-01/reels/s01-d6-2230.mp4"
     ],
     "legenda": "Direto ao assunto, com um sorriso 📞\n\nMarca o amigo que vai usar isto 😂\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 7324
+    "publicado": true,
+    "thumb_offset_ms": 7324,
+    "media_id": "18634118209032381",
+    "publicado_em": "2026-10-18T21:57:18.146Z",
+    "comentario": true,
+    "fb_video_id": "1727254205014232",
+    "fb": true
   },
   {
     "id": "s01-d6-2230-story",
