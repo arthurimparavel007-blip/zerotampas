@@ -975,8 +975,13 @@
       "saida/semana-01/reels/s01-d7-2030.mp4"
     ],
     "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 4464
+    "publicado": true,
+    "thumb_offset_ms": 4464,
+    "media_id": "18100110266411504",
+    "publicado_em": "2026-10-19T19:34:01.246Z",
+    "comentario": true,
+    "fb_video_id": "1814690406338578",
+    "fb": true
   },
   {
     "id": "s01-d7-2230",
