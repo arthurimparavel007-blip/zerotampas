@@ -1150,8 +1150,13 @@
       "saida/semana-02/reels/s02-d2-0800.mp4"
     ],
     "legenda": "Deixa do dia #9\n\nPedir uma opinião é a forma mais fácil de meter conversa. Toda a gente gosta de recomendar um livro.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 5091
+    "publicado": true,
+    "thumb_offset_ms": 5091,
+    "media_id": "17901902799606817",
+    "publicado_em": "2026-10-21T07:21:36.318Z",
+    "comentario": true,
+    "fb_video_id": "1841180443967897",
+    "fb": true
   },
   {
     "id": "s02-d2-0930",
