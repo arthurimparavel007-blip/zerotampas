@@ -1326,8 +1326,13 @@
       "saida/semana-02/reels/s02-d3-1230.mp4"
     ],
     "legenda": "O primeiro encontro não é uma entrevista de emprego ☕\n\nGuarda para o próximo.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 20975
+    "publicado": true,
+    "thumb_offset_ms": 20975,
+    "media_id": "17891658294456539",
+    "publicado_em": "2026-10-22T11:33:26.396Z",
+    "comentario": true,
+    "fb_video_id": "29440560802302702",
+    "fb": true
   },
   {
     "id": "s02-d3-1400",
