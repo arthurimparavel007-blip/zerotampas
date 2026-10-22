@@ -1403,8 +1403,13 @@
       "saida/semana-02/reels/s02-d3-2230.mp4"
     ],
     "legenda": "Nunca mais esquecemos.\n\nEnvia ao amigo que trava no «olá».\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 7073
+    "publicado": true,
+    "thumb_offset_ms": 7073,
+    "media_id": "17946894087350946",
+    "publicado_em": "2026-10-22T22:04:00.776Z",
+    "comentario": true,
+    "fb_video_id": "3372606962919001",
+    "fb": true
   },
   {
     "id": "s02-d4-0800",
