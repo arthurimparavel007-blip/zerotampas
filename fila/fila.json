@@ -1461,8 +1461,13 @@
       "saida/semana-02/reels/s02-d4-1230.mp4"
     ],
     "legenda": "Fim-de-semana à porta 🍸\n\nGuarda e envia ao grupo antes de saírem.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 18291
+    "publicado": true,
+    "thumb_offset_ms": 18291,
+    "media_id": "18127847561514510",
+    "publicado_em": "2026-10-23T12:02:41.378Z",
+    "comentario": true,
+    "fb_video_id": "1456629219683218",
+    "fb": true
   },
   {
     "id": "s02-d4-1400",
