@@ -1538,8 +1538,13 @@
       "saida/semana-02/reels/s02-d4-2230.mp4"
     ],
     "legenda": "Fica a sugestão para esta noite.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": false,
-    "thumb_offset_ms": 7473
+    "publicado": true,
+    "thumb_offset_ms": 7473,
+    "media_id": "18071629151610218",
+    "publicado_em": "2026-10-23T22:02:33.726Z",
+    "comentario": true,
+    "fb_video_id": "2295604211232822",
+    "fb": true
   },
   {
     "id": "s02-d5-0800",
