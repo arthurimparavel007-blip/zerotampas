@@ -444,54 +444,6 @@
     "fb": true
   },
   {
-    "id": "s01-d4-1630",
-    "quando_lisboa": "2026-10-16 16:30",
-    "quando_utc": "2026-10-16T15:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d4-1630.mp4"
-    ],
-    "legenda": "Foleiro? Talvez. Mas ela riu-se 🎟️\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7978
-  },
-  {
-    "id": "s01-d4-1830",
-    "quando_lisboa": "2026-10-16 18:30",
-    "quando_utc": "2026-10-16T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d4-1830.mp4"
-    ],
-    "legenda": "Quem nunca 🙃\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
-  },
-  {
-    "id": "s01-d4-2030",
-    "quando_lisboa": "2026-10-16 20:30",
-    "quando_utc": "2026-10-16T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d4-2030.mp4"
-    ],
-    "legenda": "A mãe dela foi a primeira a rir-se 😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8342
-  },
-  {
-    "id": "s01-d4-2230",
-    "quando_lisboa": "2026-10-16 22:30",
-    "quando_utc": "2026-10-16T21:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d4-2230.mp4"
-    ],
-    "legenda": "Guarda isto para sábado.\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4664
-  },
-  {
     "id": "s01-d4-2230-story",
     "quando_lisboa": "2026-10-16 22:30 +10min",
     "quando_utc": "2026-10-16T21:40:00.000Z",
@@ -531,30 +483,6 @@
     "publicado": "cancelado"
   },
   {
-    "id": "s01-d5-0930",
-    "quando_lisboa": "2026-10-17 09:30",
-    "quando_utc": "2026-10-17T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-0930.mp4"
-    ],
-    "legenda": "Marca o amigo que vai usar isto 😂\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4236
-  },
-  {
-    "id": "s01-d5-1100",
-    "quando_lisboa": "2026-10-17 11:00",
-    "quando_utc": "2026-10-17T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-1100.mp4"
-    ],
-    "legenda": "Envia ao amigo que sofre disto 😂\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 6518
-  },
-  {
     "id": "s01-d5-1230",
     "quando_lisboa": "2026-10-17 12:30",
     "quando_utc": "2026-10-17T11:30:00.000Z",
@@ -581,66 +509,6 @@
     ],
     "legenda": "",
     "publicado": "cancelado"
-  },
-  {
-    "id": "s01-d5-1400",
-    "quando_lisboa": "2026-10-17 14:00",
-    "quando_utc": "2026-10-17T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-1400.mp4"
-    ],
-    "legenda": "Isto devia ser ensinado na escola.\n\nGuarda para não te esqueceres.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4709
-  },
-  {
-    "id": "s01-d5-1530",
-    "quando_lisboa": "2026-10-17 15:30",
-    "quando_utc": "2026-10-17T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-1530.mp4"
-    ],
-    "legenda": "Outubro e já a pensar no Natal 🎄😏\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8160
-  },
-  {
-    "id": "s01-d5-1700",
-    "quando_lisboa": "2026-10-17 17:00",
-    "quando_utc": "2026-10-17T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-1700.mp4"
-    ],
-    "legenda": "Se já disseste alguma, não estás sozinho 😅\n\nPartilha nos teus stories 🔁\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7733
-  },
-  {
-    "id": "s01-d5-1830",
-    "quando_lisboa": "2026-10-17 18:30",
-    "quando_utc": "2026-10-17T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-1830.mp4"
-    ],
-    "legenda": "Marca o amigo que vai usar isto 😂\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 3645
-  },
-  {
-    "id": "s01-d5-2030",
-    "quando_lisboa": "2026-10-17 20:30",
-    "quando_utc": "2026-10-17T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d5-2030.mp4"
-    ],
-    "legenda": "Partilha nos stories se te identificas 😅\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d5-2230",
@@ -699,30 +567,6 @@
     "publicado": "cancelado"
   },
   {
-    "id": "s01-d6-0930",
-    "quando_lisboa": "2026-10-18 09:30",
-    "quando_utc": "2026-10-18T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-0930.mp4"
-    ],
-    "legenda": "Até a gafe acaba em riso quando tens lata 😅\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8415
-  },
-  {
-    "id": "s01-d6-1100",
-    "quando_lisboa": "2026-10-18 11:00",
-    "quando_utc": "2026-10-18T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-1100.mp4"
-    ],
-    "legenda": "Marca o teu amigo com lata 😂\n\nPartilha nos teus stories 🔁\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
-  },
-  {
     "id": "s01-d6-1230",
     "quando_lisboa": "2026-10-18 12:30",
     "quando_utc": "2026-10-18T11:30:00.000Z",
@@ -749,66 +593,6 @@
     ],
     "legenda": "",
     "publicado": "cancelado"
-  },
-  {
-    "id": "s01-d6-1400",
-    "quando_lisboa": "2026-10-18 14:00",
-    "quando_utc": "2026-10-18T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-1400.mp4"
-    ],
-    "legenda": "Respeito e piada não têm idade 👵❤️\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7178
-  },
-  {
-    "id": "s01-d6-1530",
-    "quando_lisboa": "2026-10-18 15:30",
-    "quando_utc": "2026-10-18T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-1530.mp4"
-    ],
-    "legenda": "Treina-se. Como no ginásio.\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
-  },
-  {
-    "id": "s01-d6-1700",
-    "quando_lisboa": "2026-10-18 17:00",
-    "quando_utc": "2026-10-18T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-1700.mp4"
-    ],
-    "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4055
-  },
-  {
-    "id": "s01-d6-1830",
-    "quando_lisboa": "2026-10-18 18:30",
-    "quando_utc": "2026-10-18T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-1830.mp4"
-    ],
-    "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5745
-  },
-  {
-    "id": "s01-d6-2030",
-    "quando_lisboa": "2026-10-18 20:30",
-    "quando_utc": "2026-10-18T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d6-2030.mp4"
-    ],
-    "legenda": "Anota 📝\n\nPartilha nos teus stories 🔁\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
   },
   {
     "id": "s01-d6-2230",
@@ -867,30 +651,6 @@
     "publicado": "cancelado"
   },
   {
-    "id": "s01-d7-0930",
-    "quando_lisboa": "2026-10-19 09:30",
-    "quando_utc": "2026-10-19T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-0930.mp4"
-    ],
-    "legenda": "Nova semana, nova lata 💪 Começa pequeno.\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8987
-  },
-  {
-    "id": "s01-d7-1100",
-    "quando_lisboa": "2026-10-19 11:00",
-    "quando_utc": "2026-10-19T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-1100.mp4"
-    ],
-    "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 3600
-  },
-  {
     "id": "s01-d7-1230",
     "quando_lisboa": "2026-10-19 12:30",
     "quando_utc": "2026-10-19T11:30:00.000Z",
@@ -919,54 +679,6 @@
     "publicado": "cancelado"
   },
   {
-    "id": "s01-d7-1400",
-    "quando_lisboa": "2026-10-19 14:00",
-    "quando_utc": "2026-10-19T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-1400.mp4"
-    ],
-    "legenda": "Não me julguem 🐶\n\nPartilha nos teus stories 🔁\n\nPara quem procura: como sair do visto · respostas a stories\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5027
-  },
-  {
-    "id": "s01-d7-1530",
-    "quando_lisboa": "2026-10-19 15:30",
-    "quando_utc": "2026-10-19T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-1530.mp4"
-    ],
-    "legenda": "O emoji que acabou em conversa 🍿\n\nMarca o amigo que vai usar isto 😂\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7505
-  },
-  {
-    "id": "s01-d7-1700",
-    "quando_lisboa": "2026-10-19 17:00",
-    "quando_utc": "2026-10-19T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-1700.mp4"
-    ],
-    "legenda": "Simples assim.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
-  },
-  {
-    "id": "s01-d7-1830",
-    "quando_lisboa": "2026-10-19 18:30",
-    "quando_utc": "2026-10-19T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-1830.mp4"
-    ],
-    "legenda": "Clássico com pinta 🏆\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7796
-  },
-  {
     "id": "s01-d7-2030",
     "quando_lisboa": "2026-10-19 20:30",
     "quando_utc": "2026-10-19T19:30:00.000Z",
@@ -982,18 +694,6 @@
     "comentario": true,
     "fb_video_id": "1814690406338578",
     "fb": true
-  },
-  {
-    "id": "s01-d7-2230",
-    "quando_lisboa": "2026-10-19 22:30",
-    "quando_utc": "2026-10-19T21:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-01/reels/s01-d7-2230.mp4"
-    ],
-    "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 6291
   },
   {
     "id": "s01-d7-2230-story",
@@ -1024,30 +724,6 @@
     "fb": true
   },
   {
-    "id": "s02-d1-0930",
-    "quando_lisboa": "2026-10-20 09:30",
-    "quando_utc": "2026-10-20T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-0930.mp4"
-    ],
-    "legenda": "Segue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5391
-  },
-  {
-    "id": "s02-d1-1100",
-    "quando_lisboa": "2026-10-20 11:00",
-    "quando_utc": "2026-10-20T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-1100.mp4"
-    ],
-    "legenda": "Quando a desculpa é óbvia, assume-a 😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 9069
-  },
-  {
     "id": "s02-d1-1230",
     "quando_lisboa": "2026-10-20 12:30",
     "quando_utc": "2026-10-20T11:30:00.000Z",
@@ -1063,66 +739,6 @@
     "comentario": true,
     "fb_video_id": "2048966005808108",
     "fb": true
-  },
-  {
-    "id": "s02-d1-1400",
-    "quando_lisboa": "2026-10-20 14:00",
-    "quando_utc": "2026-10-20T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-1400.mp4"
-    ],
-    "legenda": "😂\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5055
-  },
-  {
-    "id": "s02-d1-1530",
-    "quando_lisboa": "2026-10-20 15:30",
-    "quando_utc": "2026-10-20T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-1530.mp4"
-    ],
-    "legenda": "Toda a gente já fez isto. Da próxima vez, pergunta-lhe qual é o melhor iogurte.\n\nPartilha nos teus stories.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7336
-  },
-  {
-    "id": "s02-d1-1700",
-    "quando_lisboa": "2026-10-20 17:00",
-    "quando_utc": "2026-10-20T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-1700.mp4"
-    ],
-    "legenda": "Zero frases foleiras. Só deixas que nascem do sítio onde estás.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4982
-  },
-  {
-    "id": "s02-d1-1830",
-    "quando_lisboa": "2026-10-20 18:30",
-    "quando_utc": "2026-10-20T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-1830.mp4"
-    ],
-    "legenda": "«Fixe» fecha a porta. Uma pergunta abre-a.\n\nEnvia ao amigo que trava no «olá».\n\nPara quem procura: como sair do visto · respostas a stories\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 9645
-  },
-  {
-    "id": "s02-d1-2030",
-    "quando_lisboa": "2026-10-20 20:30",
-    "quando_utc": "2026-10-20T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d1-2030.mp4"
-    ],
-    "legenda": "Linha de Cascais, linha de Sintra, metro do Porto: a conversa pode começar em qualquer lado 🚆\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8700
   },
   {
     "id": "s02-d1-2230",
@@ -1159,30 +775,6 @@
     "fb": true
   },
   {
-    "id": "s02-d2-0930",
-    "quando_lisboa": "2026-10-21 09:30",
-    "quando_utc": "2026-10-21T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-0930.mp4"
-    ],
-    "legenda": "Um dia destes é a paragem dela 🚆\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4555
-  },
-  {
-    "id": "s02-d2-1100",
-    "quando_lisboa": "2026-10-21 11:00",
-    "quando_utc": "2026-10-21T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-1100.mp4"
-    ],
-    "legenda": "Ela respondeu à altura. Ele aproveitou. É assim que se faz.\n\nGuarda para não te esqueceres.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 9396
-  },
-  {
     "id": "s02-d2-1230",
     "quando_lisboa": "2026-10-21 12:30",
     "quando_utc": "2026-10-21T11:30:00.000Z",
@@ -1198,66 +790,6 @@
     "comentario": true,
     "fb_video_id": "2599703077123527",
     "fb": true
-  },
-  {
-    "id": "s02-d2-1400",
-    "quando_lisboa": "2026-10-21 14:00",
-    "quando_utc": "2026-10-21T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-1400.mp4"
-    ],
-    "legenda": "Uma deixa decorada soa a deixa decorada. Uma deixa que percebes adapta-se a qualquer sítio.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como sair do visto · respostas a stories\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8933
-  },
-  {
-    "id": "s02-d2-1530",
-    "quando_lisboa": "2026-10-21 15:30",
-    "quando_utc": "2026-10-21T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-1530.mp4"
-    ],
-    "legenda": "Marca o amigo que vai usar isto.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5345
-  },
-  {
-    "id": "s02-d2-1700",
-    "quando_lisboa": "2026-10-21 17:00",
-    "quando_utc": "2026-10-21T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-1700.mp4"
-    ],
-    "legenda": "Sai com classe. O ego recupera, a reputação também.\n\nPartilha nos teus stories.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5836
-  },
-  {
-    "id": "s02-d2-1830",
-    "quando_lisboa": "2026-10-21 18:30",
-    "quando_utc": "2026-10-21T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-1830.mp4"
-    ],
-    "legenda": "No ginásio a regra é simples: só no intervalo entre séries e nunca sobre o corpo 🏋️\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7827
-  },
-  {
-    "id": "s02-d2-2030",
-    "quando_lisboa": "2026-10-21 20:30",
-    "quando_utc": "2026-10-21T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d2-2030.mp4"
-    ],
-    "legenda": "Envia ao amigo que trava no «olá».\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
   },
   {
     "id": "s02-d2-2230",
@@ -1294,30 +826,6 @@
     "fb": true
   },
   {
-    "id": "s02-d3-0930",
-    "quando_lisboa": "2026-10-22 09:30",
-    "quando_utc": "2026-10-22T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-0930.mp4"
-    ],
-    "legenda": "Envia a quem precisa disto.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
-  },
-  {
-    "id": "s02-d3-1100",
-    "quando_lisboa": "2026-10-22 11:00",
-    "quando_utc": "2026-10-22T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-1100.mp4"
-    ],
-    "legenda": "A honestidade também é uma deixa. E das boas.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8560
-  },
-  {
     "id": "s02-d3-1230",
     "quando_lisboa": "2026-10-22 12:30",
     "quando_utc": "2026-10-22T11:30:00.000Z",
@@ -1333,66 +841,6 @@
     "comentario": true,
     "fb_video_id": "29440560802302702",
     "fb": true
-  },
-  {
-    "id": "s02-d3-1400",
-    "quando_lisboa": "2026-10-22 14:00",
-    "quando_utc": "2026-10-22T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-1400.mp4"
-    ],
-    "legenda": "😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 3600
-  },
-  {
-    "id": "s02-d3-1530",
-    "quando_lisboa": "2026-10-22 15:30",
-    "quando_utc": "2026-10-22T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-1530.mp4"
-    ],
-    "legenda": "A frase é 20%. O resto é a forma como a dizes.\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7351
-  },
-  {
-    "id": "s02-d3-1700",
-    "quando_lisboa": "2026-10-22 17:00",
-    "quando_utc": "2026-10-22T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-1700.mp4"
-    ],
-    "legenda": "A primeira mensagem decide se sais do visto 📱\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8700
-  },
-  {
-    "id": "s02-d3-1830",
-    "quando_lisboa": "2026-10-22 18:30",
-    "quando_utc": "2026-10-22T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-1830.mp4"
-    ],
-    "legenda": "Se a deixa sair foleira, assume. Ela vai rir-se contigo, não de ti.\n\nPartilha nos teus stories.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7396
-  },
-  {
-    "id": "s02-d3-2030",
-    "quando_lisboa": "2026-10-22 20:30",
-    "quando_utc": "2026-10-22T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d3-2030.mp4"
-    ],
-    "legenda": "Comenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como sair do visto · respostas a stories\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
   },
   {
     "id": "s02-d3-2230",
@@ -1429,30 +877,6 @@
     "fb": true
   },
   {
-    "id": "s02-d4-0930",
-    "quando_lisboa": "2026-10-23 09:30",
-    "quando_utc": "2026-10-23T08:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-0930.mp4"
-    ],
-    "legenda": "Checklist oficial de sexta-feira.\n\nEnvia a quem precisa disto.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7924
-  },
-  {
-    "id": "s02-d4-1100",
-    "quando_lisboa": "2026-10-23 11:00",
-    "quando_utc": "2026-10-23T10:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-1100.mp4"
-    ],
-    "legenda": "Oferecer e cumprir. É isto que separa a lata da chatice.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8705
-  },
-  {
     "id": "s02-d4-1230",
     "quando_lisboa": "2026-10-23 12:30",
     "quando_utc": "2026-10-23T11:30:00.000Z",
@@ -1468,66 +892,6 @@
     "comentario": true,
     "fb_video_id": "1456629219683218",
     "fb": true
-  },
-  {
-    "id": "s02-d4-1400",
-    "quando_lisboa": "2026-10-23 14:00",
-    "quando_utc": "2026-10-23T13:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-1400.mp4"
-    ],
-    "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
-  },
-  {
-    "id": "s02-d4-1530",
-    "quando_lisboa": "2026-10-23 15:30",
-    "quando_utc": "2026-10-23T14:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-1530.mp4"
-    ],
-    "legenda": "😂\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5191
-  },
-  {
-    "id": "s02-d4-1700",
-    "quando_lisboa": "2026-10-23 17:00",
-    "quando_utc": "2026-10-23T16:00:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-1700.mp4"
-    ],
-    "legenda": "Antes do fim-de-semana, a lista completa 📘\n\n12,90 € em vez de 57 €.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 11155
-  },
-  {
-    "id": "s02-d4-1830",
-    "quando_lisboa": "2026-10-23 18:30",
-    "quando_utc": "2026-10-23T17:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-1830.mp4"
-    ],
-    "legenda": "Hoje à noite vais precisar disto 🍻\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7964
-  },
-  {
-    "id": "s02-d4-2030",
-    "quando_lisboa": "2026-10-23 20:30",
-    "quando_utc": "2026-10-23T19:30:00.000Z",
-    "tipo": "REELS",
-    "imagens": [
-      "saida/semana-02/reels/s02-d4-2030.mp4"
-    ],
-    "legenda": "Admitir que não sabes também é lata.\n\nPartilha nos teus stories.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7178
   },
   {
     "id": "s02-d4-2230",
@@ -1547,363 +911,1082 @@
     "fb": true
   },
   {
-    "id": "s02-d5-0800",
+    "id": "s01-d4-1630",
     "quando_lisboa": "2026-10-24 08:00",
     "quando_utc": "2026-10-24T07:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d4-1630.mp4"
+    ],
+    "legenda": "Foleiro? Talvez. Mas ela riu-se 🎟️\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7978,
+    "quando_original": "2026-10-16 16:30"
+  },
+  {
+    "id": "s01-d4-1830",
+    "quando_lisboa": "2026-10-24 09:20",
+    "quando_utc": "2026-10-24T08:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d4-1830.mp4"
+    ],
+    "legenda": "Quem nunca 🙃\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-16 18:30"
+  },
+  {
+    "id": "s01-d4-2030",
+    "quando_lisboa": "2026-10-24 10:40",
+    "quando_utc": "2026-10-24T09:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d4-2030.mp4"
+    ],
+    "legenda": "A mãe dela foi a primeira a rir-se 😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8342,
+    "quando_original": "2026-10-16 20:30"
+  },
+  {
+    "id": "s01-d4-2230",
+    "quando_lisboa": "2026-10-24 12:00",
+    "quando_utc": "2026-10-24T11:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d4-2230.mp4"
+    ],
+    "legenda": "Guarda isto para sábado.\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 4664,
+    "quando_original": "2026-10-16 22:30"
+  },
+  {
+    "id": "s01-d5-0930",
+    "quando_lisboa": "2026-10-24 13:20",
+    "quando_utc": "2026-10-24T12:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-0930.mp4"
+    ],
+    "legenda": "Marca o amigo que vai usar isto 😂\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 4236,
+    "quando_original": "2026-10-17 09:30"
+  },
+  {
+    "id": "s01-d5-1100",
+    "quando_lisboa": "2026-10-24 14:40",
+    "quando_utc": "2026-10-24T13:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-1100.mp4"
+    ],
+    "legenda": "Envia ao amigo que sofre disto 😂\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 6518,
+    "quando_original": "2026-10-17 11:00"
+  },
+  {
+    "id": "s01-d5-1400",
+    "quando_lisboa": "2026-10-24 16:00",
+    "quando_utc": "2026-10-24T15:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-1400.mp4"
+    ],
+    "legenda": "Isto devia ser ensinado na escola.\n\nGuarda para não te esqueceres.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 4709,
+    "quando_original": "2026-10-17 14:00"
+  },
+  {
+    "id": "s01-d5-1530",
+    "quando_lisboa": "2026-10-24 17:20",
+    "quando_utc": "2026-10-24T16:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-1530.mp4"
+    ],
+    "legenda": "Outubro e já a pensar no Natal 🎄😏\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8160,
+    "quando_original": "2026-10-17 15:30"
+  },
+  {
+    "id": "s01-d5-1700",
+    "quando_lisboa": "2026-10-24 18:40",
+    "quando_utc": "2026-10-24T17:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-1700.mp4"
+    ],
+    "legenda": "Se já disseste alguma, não estás sozinho 😅\n\nPartilha nos teus stories 🔁\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7733,
+    "quando_original": "2026-10-17 17:00"
+  },
+  {
+    "id": "s01-d5-1830",
+    "quando_lisboa": "2026-10-24 20:00",
+    "quando_utc": "2026-10-24T19:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-1830.mp4"
+    ],
+    "legenda": "Marca o amigo que vai usar isto 😂\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 3645,
+    "quando_original": "2026-10-17 18:30"
+  },
+  {
+    "id": "s01-d5-2030",
+    "quando_lisboa": "2026-10-24 21:20",
+    "quando_utc": "2026-10-24T20:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d5-2030.mp4"
+    ],
+    "legenda": "Partilha nos stories se te identificas 😅\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-17 20:30"
+  },
+  {
+    "id": "s01-d6-0930",
+    "quando_lisboa": "2026-10-24 22:30",
+    "quando_utc": "2026-10-24T21:30:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-0930.mp4"
+    ],
+    "legenda": "Até a gafe acaba em riso quando tens lata 😅\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8415,
+    "quando_original": "2026-10-18 09:30"
+  },
+  {
+    "id": "s01-d6-1100",
+    "quando_lisboa": "2026-10-25 08:00",
+    "quando_utc": "2026-10-25T08:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-1100.mp4"
+    ],
+    "legenda": "Marca o teu amigo com lata 😂\n\nPartilha nos teus stories 🔁\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-18 11:00"
+  },
+  {
+    "id": "s01-d6-1400",
+    "quando_lisboa": "2026-10-25 09:20",
+    "quando_utc": "2026-10-25T09:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-1400.mp4"
+    ],
+    "legenda": "Respeito e piada não têm idade 👵❤️\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7178,
+    "quando_original": "2026-10-18 14:00"
+  },
+  {
+    "id": "s01-d6-1530",
+    "quando_lisboa": "2026-10-25 10:40",
+    "quando_utc": "2026-10-25T10:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-1530.mp4"
+    ],
+    "legenda": "Treina-se. Como no ginásio.\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-18 15:30"
+  },
+  {
+    "id": "s01-d6-1700",
+    "quando_lisboa": "2026-10-25 12:00",
+    "quando_utc": "2026-10-25T12:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-1700.mp4"
+    ],
+    "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 4055,
+    "quando_original": "2026-10-18 17:00"
+  },
+  {
+    "id": "s01-d6-1830",
+    "quando_lisboa": "2026-10-25 13:20",
+    "quando_utc": "2026-10-25T13:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-1830.mp4"
+    ],
+    "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5745,
+    "quando_original": "2026-10-18 18:30"
+  },
+  {
+    "id": "s01-d6-2030",
+    "quando_lisboa": "2026-10-25 14:40",
+    "quando_utc": "2026-10-25T14:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d6-2030.mp4"
+    ],
+    "legenda": "Anota 📝\n\nPartilha nos teus stories 🔁\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-18 20:30"
+  },
+  {
+    "id": "s01-d7-0930",
+    "quando_lisboa": "2026-10-25 16:00",
+    "quando_utc": "2026-10-25T16:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-0930.mp4"
+    ],
+    "legenda": "Nova semana, nova lata 💪 Começa pequeno.\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8987,
+    "quando_original": "2026-10-19 09:30"
+  },
+  {
+    "id": "s01-d7-1100",
+    "quando_lisboa": "2026-10-25 17:20",
+    "quando_utc": "2026-10-25T17:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-1100.mp4"
+    ],
+    "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 3600,
+    "quando_original": "2026-10-19 11:00"
+  },
+  {
+    "id": "s01-d7-1400",
+    "quando_lisboa": "2026-10-25 18:40",
+    "quando_utc": "2026-10-25T18:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-1400.mp4"
+    ],
+    "legenda": "Não me julguem 🐶\n\nPartilha nos teus stories 🔁\n\nPara quem procura: como sair do visto · respostas a stories\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5027,
+    "quando_original": "2026-10-19 14:00"
+  },
+  {
+    "id": "s01-d7-1530",
+    "quando_lisboa": "2026-10-25 20:00",
+    "quando_utc": "2026-10-25T20:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-1530.mp4"
+    ],
+    "legenda": "O emoji que acabou em conversa 🍿\n\nMarca o amigo que vai usar isto 😂\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7505,
+    "quando_original": "2026-10-19 15:30"
+  },
+  {
+    "id": "s01-d7-1700",
+    "quando_lisboa": "2026-10-25 21:20",
+    "quando_utc": "2026-10-25T21:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-1700.mp4"
+    ],
+    "legenda": "Simples assim.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-19 17:00"
+  },
+  {
+    "id": "s01-d7-1830",
+    "quando_lisboa": "2026-10-25 22:30",
+    "quando_utc": "2026-10-25T22:30:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-1830.mp4"
+    ],
+    "legenda": "Clássico com pinta 🏆\n\nEnvia a quem precisa disto 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7796,
+    "quando_original": "2026-10-19 18:30"
+  },
+  {
+    "id": "s01-d7-2230",
+    "quando_lisboa": "2026-10-26 08:00",
+    "quando_utc": "2026-10-26T08:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-01/reels/s01-d7-2230.mp4"
+    ],
+    "legenda": "Envia ao amigo que sofre disto 😂\n\nComenta DEIXA e mando-te mais, de borla 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 6291,
+    "quando_original": "2026-10-19 22:30"
+  },
+  {
+    "id": "s02-d1-0930",
+    "quando_lisboa": "2026-10-26 09:20",
+    "quando_utc": "2026-10-26T09:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-0930.mp4"
+    ],
+    "legenda": "Segue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5391,
+    "quando_original": "2026-10-20 09:30"
+  },
+  {
+    "id": "s02-d1-1100",
+    "quando_lisboa": "2026-10-26 10:40",
+    "quando_utc": "2026-10-26T10:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-1100.mp4"
+    ],
+    "legenda": "Quando a desculpa é óbvia, assume-a 😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 9069,
+    "quando_original": "2026-10-20 11:00"
+  },
+  {
+    "id": "s02-d1-1400",
+    "quando_lisboa": "2026-10-26 12:00",
+    "quando_utc": "2026-10-26T12:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-1400.mp4"
+    ],
+    "legenda": "😂\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5055,
+    "quando_original": "2026-10-20 14:00"
+  },
+  {
+    "id": "s02-d1-1530",
+    "quando_lisboa": "2026-10-26 13:20",
+    "quando_utc": "2026-10-26T13:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-1530.mp4"
+    ],
+    "legenda": "Toda a gente já fez isto. Da próxima vez, pergunta-lhe qual é o melhor iogurte.\n\nPartilha nos teus stories.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7336,
+    "quando_original": "2026-10-20 15:30"
+  },
+  {
+    "id": "s02-d1-1700",
+    "quando_lisboa": "2026-10-26 14:40",
+    "quando_utc": "2026-10-26T14:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-1700.mp4"
+    ],
+    "legenda": "Zero frases foleiras. Só deixas que nascem do sítio onde estás.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 4982,
+    "quando_original": "2026-10-20 17:00"
+  },
+  {
+    "id": "s02-d1-1830",
+    "quando_lisboa": "2026-10-26 16:00",
+    "quando_utc": "2026-10-26T16:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-1830.mp4"
+    ],
+    "legenda": "«Fixe» fecha a porta. Uma pergunta abre-a.\n\nEnvia ao amigo que trava no «olá».\n\nPara quem procura: como sair do visto · respostas a stories\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 9645,
+    "quando_original": "2026-10-20 18:30"
+  },
+  {
+    "id": "s02-d1-2030",
+    "quando_lisboa": "2026-10-26 17:20",
+    "quando_utc": "2026-10-26T17:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d1-2030.mp4"
+    ],
+    "legenda": "Linha de Cascais, linha de Sintra, metro do Porto: a conversa pode começar em qualquer lado 🚆\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8700,
+    "quando_original": "2026-10-20 20:30"
+  },
+  {
+    "id": "s02-d2-0930",
+    "quando_lisboa": "2026-10-26 18:40",
+    "quando_utc": "2026-10-26T18:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-0930.mp4"
+    ],
+    "legenda": "Um dia destes é a paragem dela 🚆\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 4555,
+    "quando_original": "2026-10-21 09:30"
+  },
+  {
+    "id": "s02-d2-1100",
+    "quando_lisboa": "2026-10-26 20:00",
+    "quando_utc": "2026-10-26T20:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-1100.mp4"
+    ],
+    "legenda": "Ela respondeu à altura. Ele aproveitou. É assim que se faz.\n\nGuarda para não te esqueceres.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 9396,
+    "quando_original": "2026-10-21 11:00"
+  },
+  {
+    "id": "s02-d2-1400",
+    "quando_lisboa": "2026-10-26 21:20",
+    "quando_utc": "2026-10-26T21:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-1400.mp4"
+    ],
+    "legenda": "Uma deixa decorada soa a deixa decorada. Uma deixa que percebes adapta-se a qualquer sítio.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como sair do visto · respostas a stories\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8933,
+    "quando_original": "2026-10-21 14:00"
+  },
+  {
+    "id": "s02-d2-1530",
+    "quando_lisboa": "2026-10-26 22:30",
+    "quando_utc": "2026-10-26T22:30:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-1530.mp4"
+    ],
+    "legenda": "Marca o amigo que vai usar isto.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5345,
+    "quando_original": "2026-10-21 15:30"
+  },
+  {
+    "id": "s02-d2-1700",
+    "quando_lisboa": "2026-10-27 08:00",
+    "quando_utc": "2026-10-27T08:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-1700.mp4"
+    ],
+    "legenda": "Sai com classe. O ego recupera, a reputação também.\n\nPartilha nos teus stories.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5836,
+    "quando_original": "2026-10-21 17:00"
+  },
+  {
+    "id": "s02-d2-1830",
+    "quando_lisboa": "2026-10-27 09:20",
+    "quando_utc": "2026-10-27T09:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-1830.mp4"
+    ],
+    "legenda": "No ginásio a regra é simples: só no intervalo entre séries e nunca sobre o corpo 🏋️\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7827,
+    "quando_original": "2026-10-21 18:30"
+  },
+  {
+    "id": "s02-d2-2030",
+    "quando_lisboa": "2026-10-27 10:40",
+    "quando_utc": "2026-10-27T10:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d2-2030.mp4"
+    ],
+    "legenda": "Envia ao amigo que trava no «olá».\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-21 20:30"
+  },
+  {
+    "id": "s02-d3-0930",
+    "quando_lisboa": "2026-10-27 12:00",
+    "quando_utc": "2026-10-27T12:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-0930.mp4"
+    ],
+    "legenda": "Envia a quem precisa disto.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-22 09:30"
+  },
+  {
+    "id": "s02-d3-1100",
+    "quando_lisboa": "2026-10-27 13:20",
+    "quando_utc": "2026-10-27T13:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-1100.mp4"
+    ],
+    "legenda": "A honestidade também é uma deixa. E das boas.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8560,
+    "quando_original": "2026-10-22 11:00"
+  },
+  {
+    "id": "s02-d3-1400",
+    "quando_lisboa": "2026-10-27 14:40",
+    "quando_utc": "2026-10-27T14:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-1400.mp4"
+    ],
+    "legenda": "😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 3600,
+    "quando_original": "2026-10-22 14:00"
+  },
+  {
+    "id": "s02-d3-1530",
+    "quando_lisboa": "2026-10-27 16:00",
+    "quando_utc": "2026-10-27T16:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-1530.mp4"
+    ],
+    "legenda": "A frase é 20%. O resto é a forma como a dizes.\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7351,
+    "quando_original": "2026-10-22 15:30"
+  },
+  {
+    "id": "s02-d3-1700",
+    "quando_lisboa": "2026-10-27 17:20",
+    "quando_utc": "2026-10-27T17:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-1700.mp4"
+    ],
+    "legenda": "A primeira mensagem decide se sais do visto 📱\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8700,
+    "quando_original": "2026-10-22 17:00"
+  },
+  {
+    "id": "s02-d3-1830",
+    "quando_lisboa": "2026-10-27 18:40",
+    "quando_utc": "2026-10-27T18:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-1830.mp4"
+    ],
+    "legenda": "Se a deixa sair foleira, assume. Ela vai rir-se contigo, não de ti.\n\nPartilha nos teus stories.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#lisboa #porto #solteiros #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7396,
+    "quando_original": "2026-10-22 18:30"
+  },
+  {
+    "id": "s02-d3-2030",
+    "quando_lisboa": "2026-10-27 20:00",
+    "quando_utc": "2026-10-27T20:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d3-2030.mp4"
+    ],
+    "legenda": "Comenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como sair do visto · respostas a stories\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-22 20:30"
+  },
+  {
+    "id": "s02-d4-0930",
+    "quando_lisboa": "2026-10-27 21:20",
+    "quando_utc": "2026-10-27T21:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-0930.mp4"
+    ],
+    "legenda": "Checklist oficial de sexta-feira.\n\nEnvia a quem precisa disto.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7924,
+    "quando_original": "2026-10-23 09:30"
+  },
+  {
+    "id": "s02-d4-1100",
+    "quando_lisboa": "2026-10-27 22:30",
+    "quando_utc": "2026-10-27T22:30:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-1100.mp4"
+    ],
+    "legenda": "Oferecer e cumprir. É isto que separa a lata da chatice.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 8705,
+    "quando_original": "2026-10-23 11:00"
+  },
+  {
+    "id": "s02-d4-1400",
+    "quando_lisboa": "2026-10-28 08:00",
+    "quando_utc": "2026-10-28T08:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-1400.mp4"
+    ],
+    "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#primeiroencontro #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-23 14:00"
+  },
+  {
+    "id": "s02-d4-1530",
+    "quando_lisboa": "2026-10-28 09:20",
+    "quando_utc": "2026-10-28T09:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-1530.mp4"
+    ],
+    "legenda": "😂\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#memes #humorportugues #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 5191,
+    "quando_original": "2026-10-23 15:30"
+  },
+  {
+    "id": "s02-d4-1700",
+    "quando_lisboa": "2026-10-28 10:40",
+    "quando_utc": "2026-10-28T10:40:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-1700.mp4"
+    ],
+    "legenda": "Antes do fim-de-semana, a lista completa 📘\n\n12,90 € em vez de 57 €.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#tinder #solteiros #portugal #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 11155,
+    "quando_original": "2026-10-23 17:00"
+  },
+  {
+    "id": "s02-d4-1830",
+    "quando_lisboa": "2026-10-28 12:00",
+    "quando_utc": "2026-10-28T12:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-1830.mp4"
+    ],
+    "legenda": "Hoje à noite vais precisar disto 🍻\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#confianca #portugal #lisboa #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7964,
+    "quando_original": "2026-10-23 18:30"
+  },
+  {
+    "id": "s02-d4-2030",
+    "quando_lisboa": "2026-10-28 13:20",
+    "quando_utc": "2026-10-28T13:20:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-02/reels/s02-d4-2030.mp4"
+    ],
+    "legenda": "Admitir que não sabes também é lata.\n\nPartilha nos teus stories.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#portugal #humorportugues #zerotampas",
+    "publicado": false,
+    "thumb_offset_ms": 7178,
+    "quando_original": "2026-10-23 20:30"
+  },
+  {
+    "id": "s02-d5-0800",
+    "quando_lisboa": "2026-10-28 14:40",
+    "quando_utc": "2026-10-28T14:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-0800.mp4"
     ],
     "legenda": "Deixa do dia #12\n\nSábado de manhã, feira, objetos estranhos: a conversa começa sozinha. Pede-lhe a opinião.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#primeiroencontro #portugal #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 5600
+    "thumb_offset_ms": 5600,
+    "quando_original": "2026-10-24 08:00"
   },
   {
     "id": "s02-d5-0930",
-    "quando_lisboa": "2026-10-24 09:30",
-    "quando_utc": "2026-10-24T08:30:00.000Z",
+    "quando_lisboa": "2026-10-28 16:00",
+    "quando_utc": "2026-10-28T16:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-0930.mp4"
     ],
     "legenda": "Responde quando te apetecer. Joguinhos cansam.\n\nEnvia ao amigo que trava no «olá».\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5927
+    "publicado": false,
+    "thumb_offset_ms": 5927,
+    "quando_original": "2026-10-24 09:30"
   },
   {
     "id": "s02-d5-1100",
-    "quando_lisboa": "2026-10-24 11:00",
-    "quando_utc": "2026-10-24T10:00:00.000Z",
+    "quando_lisboa": "2026-10-28 17:20",
+    "quando_utc": "2026-10-28T17:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-1100.mp4"
     ],
     "legenda": "Resposta a story que acaba em convite. Sem pressa e sem pressão.\n\nEnvia a quem precisa disto.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7833
+    "publicado": false,
+    "thumb_offset_ms": 7833,
+    "quando_original": "2026-10-24 11:00"
   },
   {
     "id": "s02-d5-1230",
-    "quando_lisboa": "2026-10-24 12:30",
-    "quando_utc": "2026-10-24T11:30:00.000Z",
+    "quando_lisboa": "2026-10-28 18:40",
+    "quando_utc": "2026-10-28T18:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-1230.mp4"
     ],
     "legenda": "Escolhe bem o sítio e metade do trabalho está feito 🌅\n\nGuarda para este fim-de-semana.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#confianca #portugal #lisboa #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 19695
+    "thumb_offset_ms": 19695,
+    "quando_original": "2026-10-24 12:30"
   },
   {
     "id": "s02-d5-1400",
-    "quando_lisboa": "2026-10-24 14:00",
-    "quando_utc": "2026-10-24T13:00:00.000Z",
+    "quando_lisboa": "2026-10-28 20:00",
+    "quando_utc": "2026-10-28T20:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-1400.mp4"
     ],
     "legenda": "Segue @zerotampas para uma deixa por dia.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4845
+    "publicado": false,
+    "thumb_offset_ms": 4845,
+    "quando_original": "2026-10-24 14:00"
   },
   {
     "id": "s02-d5-1530",
-    "quando_lisboa": "2026-10-24 15:30",
-    "quando_utc": "2026-10-24T14:30:00.000Z",
+    "quando_lisboa": "2026-10-28 21:20",
+    "quando_utc": "2026-10-28T21:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-1530.mp4"
     ],
     "legenda": "😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4736
+    "publicado": false,
+    "thumb_offset_ms": 4736,
+    "quando_original": "2026-10-24 15:30"
   },
   {
     "id": "s02-d5-1700",
-    "quando_lisboa": "2026-10-24 17:00",
-    "quando_utc": "2026-10-24T16:00:00.000Z",
+    "quando_lisboa": "2026-10-28 22:30",
+    "quando_utc": "2026-10-28T22:30:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-1700.mp4"
     ],
     "legenda": "Ela apanhou a deixa. Ele não fugiu. Resultado: estão a rir os dois.\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8124
+    "publicado": false,
+    "thumb_offset_ms": 8124,
+    "quando_original": "2026-10-24 17:00"
   },
   {
     "id": "s02-d5-1830",
-    "quando_lisboa": "2026-10-24 18:30",
-    "quando_utc": "2026-10-24T17:30:00.000Z",
+    "quando_lisboa": "2026-10-29 08:00",
+    "quando_utc": "2026-10-29T08:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-1830.mp4"
     ],
     "legenda": "Calma. Lembra-te de uma coisa da conversa e deixa-a respirar.\n\nPartilha nos teus stories.\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 9982
+    "publicado": false,
+    "thumb_offset_ms": 9982,
+    "quando_original": "2026-10-24 18:30"
   },
   {
     "id": "s02-d5-2030",
-    "quando_lisboa": "2026-10-24 20:30",
-    "quando_utc": "2026-10-24T19:30:00.000Z",
+    "quando_lisboa": "2026-10-29 09:20",
+    "quando_utc": "2026-10-29T09:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-2030.mp4"
     ],
     "legenda": "Sábado no mercado é dos melhores sítios para meter conversa 🧺\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 7645
+    "publicado": false,
+    "thumb_offset_ms": 7645,
+    "quando_original": "2026-10-24 20:30"
   },
   {
     "id": "s02-d5-2230",
-    "quando_lisboa": "2026-10-24 22:30",
-    "quando_utc": "2026-10-24T21:30:00.000Z",
+    "quando_lisboa": "2026-10-29 10:40",
+    "quando_utc": "2026-10-29T10:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d5-2230.mp4"
     ],
     "legenda": "Envia ao amigo que trava no «olá».\n\nPara quem procura: como sair do visto · respostas a stories\n\n#confianca #portugal #lisboa #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 4845
+    "thumb_offset_ms": 4845,
+    "quando_original": "2026-10-24 22:30"
   },
   {
     "id": "s02-d6-0800",
-    "quando_lisboa": "2026-10-25 08:00",
-    "quando_utc": "2026-10-25T08:00:00.000Z",
+    "quando_lisboa": "2026-10-29 12:00",
+    "quando_utc": "2026-10-29T12:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-0800.mp4"
     ],
     "legenda": "Deixa do dia #13\n\nPedir ajuda numa coisa simples. Ela explica, tu agradeces e a conversa já está aberta.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#portugal #humorportugues #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 5600
+    "thumb_offset_ms": 5600,
+    "quando_original": "2026-10-25 08:00"
   },
   {
     "id": "s02-d6-0930",
-    "quando_lisboa": "2026-10-25 09:30",
-    "quando_utc": "2026-10-25T09:30:00.000Z",
+    "quando_lisboa": "2026-10-29 13:20",
+    "quando_utc": "2026-10-29T13:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-0930.mp4"
     ],
     "legenda": "Envia a quem precisa disto.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5209
+    "publicado": false,
+    "thumb_offset_ms": 5209,
+    "quando_original": "2026-10-25 09:30"
   },
   {
     "id": "s02-d6-1100",
-    "quando_lisboa": "2026-10-25 11:00",
-    "quando_utc": "2026-10-25T11:00:00.000Z",
+    "quando_lisboa": "2026-10-29 14:40",
+    "quando_utc": "2026-10-29T14:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-1100.mp4"
     ],
     "legenda": "Enganaste-te na fila? Aproveita a fila.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8233
+    "publicado": false,
+    "thumb_offset_ms": 8233,
+    "quando_original": "2026-10-25 11:00"
   },
   {
     "id": "s02-d6-1230",
-    "quando_lisboa": "2026-10-25 12:30",
-    "quando_utc": "2026-10-25T12:30:00.000Z",
+    "quando_lisboa": "2026-10-29 16:00",
+    "quando_utc": "2026-10-29T16:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-1230.mp4"
     ],
     "legenda": "Domingo é dia de rever a matéria 📚\n\nGuarda e envia ao amigo que precisa.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#memes #humorportugues #portugal #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 21250
+    "thumb_offset_ms": 21250,
+    "quando_original": "2026-10-25 12:30"
   },
   {
     "id": "s02-d6-1400",
-    "quando_lisboa": "2026-10-25 14:00",
-    "quando_utc": "2026-10-25T14:00:00.000Z",
+    "quando_lisboa": "2026-10-29 17:20",
+    "quando_utc": "2026-10-29T17:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-1400.mp4"
     ],
     "legenda": "Se te reconheces numa destas, é para ti.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8469
+    "publicado": false,
+    "thumb_offset_ms": 8469,
+    "quando_original": "2026-10-25 14:00"
   },
   {
     "id": "s02-d6-1530",
-    "quando_lisboa": "2026-10-25 15:30",
-    "quando_utc": "2026-10-25T15:30:00.000Z",
+    "quando_lisboa": "2026-10-29 18:40",
+    "quando_utc": "2026-10-29T18:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-1530.mp4"
     ],
     "legenda": "😂\n\nGuarda para não te esqueceres.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5145
+    "publicado": false,
+    "thumb_offset_ms": 5145,
+    "quando_original": "2026-10-25 15:30"
   },
   {
     "id": "s02-d6-1700",
-    "quando_lisboa": "2026-10-25 17:00",
-    "quando_utc": "2026-10-25T17:00:00.000Z",
+    "quando_lisboa": "2026-10-29 20:00",
+    "quando_utc": "2026-10-29T20:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-1700.mp4"
     ],
     "legenda": "Contas simples.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como sair do visto · respostas a stories\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 6609
+    "publicado": false,
+    "thumb_offset_ms": 6609,
+    "quando_original": "2026-10-25 17:00"
   },
   {
     "id": "s02-d6-1830",
-    "quando_lisboa": "2026-10-25 18:30",
-    "quando_utc": "2026-10-25T18:30:00.000Z",
+    "quando_lisboa": "2026-10-29 21:20",
+    "quando_utc": "2026-10-29T21:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-1830.mp4"
     ],
     "legenda": "Marca o amigo que vai usar isto.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-25 18:30"
   },
   {
     "id": "s02-d6-2030",
-    "quando_lisboa": "2026-10-25 20:30",
-    "quando_utc": "2026-10-25T20:30:00.000Z",
+    "quando_lisboa": "2026-10-29 22:30",
+    "quando_utc": "2026-10-29T22:30:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-2030.mp4"
     ],
     "legenda": "Domingo ao fim da tarde, miradouro cheio 🌅\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 7827
+    "thumb_offset_ms": 7827,
+    "quando_original": "2026-10-25 20:30"
   },
   {
     "id": "s02-d6-2230",
-    "quando_lisboa": "2026-10-25 22:30",
-    "quando_utc": "2026-10-25T22:30:00.000Z",
+    "quando_lisboa": "2026-10-30 08:00",
+    "quando_utc": "2026-10-30T08:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d6-2230.mp4"
     ],
     "legenda": "Lembra-a de onde se conheceram. Uma piada interna vale mais do que um «olá».\n\nPartilha nos teus stories.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 9282
+    "publicado": false,
+    "thumb_offset_ms": 9282,
+    "quando_original": "2026-10-25 22:30"
   },
   {
     "id": "s02-d7-0800",
-    "quando_lisboa": "2026-10-26 08:00",
-    "quando_utc": "2026-10-26T08:00:00.000Z",
+    "quando_lisboa": "2026-10-30 09:20",
+    "quando_utc": "2026-10-30T09:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-0800.mp4"
     ],
     "legenda": "Deixa do dia #14\n\nUma pequena disputa divertida. Seja qual for o resultado, já estão a conversar.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#tinder #solteiros #portugal #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 5455
+    "thumb_offset_ms": 5455,
+    "quando_original": "2026-10-26 08:00"
   },
   {
     "id": "s02-d7-0930",
-    "quando_lisboa": "2026-10-26 09:30",
-    "quando_utc": "2026-10-26T09:30:00.000Z",
+    "quando_lisboa": "2026-10-30 10:40",
+    "quando_utc": "2026-10-30T10:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-0930.mp4"
     ],
     "legenda": "😂\n\nEnvia ao amigo que trava no «olá».\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4464
+    "publicado": false,
+    "thumb_offset_ms": 4464,
+    "quando_original": "2026-10-26 09:30"
   },
   {
     "id": "s02-d7-1100",
-    "quando_lisboa": "2026-10-26 11:00",
-    "quando_utc": "2026-10-26T11:00:00.000Z",
+    "quando_lisboa": "2026-10-30 12:00",
+    "quando_utc": "2026-10-30T12:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-1100.mp4"
     ],
     "legenda": "Envia a quem precisa disto.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5400
+    "publicado": false,
+    "thumb_offset_ms": 5400,
+    "quando_original": "2026-10-26 11:00"
   },
   {
     "id": "s02-d7-1230",
-    "quando_lisboa": "2026-10-26 12:30",
-    "quando_utc": "2026-10-26T12:30:00.000Z",
+    "quando_lisboa": "2026-10-30 13:20",
+    "quando_utc": "2026-10-30T13:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-1230.mp4"
     ],
     "legenda": "A lata treina-se como um músculo 💪\n\nGuarda e faz um por dia.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#lisboa #porto #solteiros #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 22000
+    "thumb_offset_ms": 22000,
+    "quando_original": "2026-10-26 12:30"
   },
   {
     "id": "s02-d7-1400",
-    "quando_lisboa": "2026-10-26 14:00",
-    "quando_utc": "2026-10-26T14:00:00.000Z",
+    "quando_lisboa": "2026-10-30 14:40",
+    "quando_utc": "2026-10-30T14:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-1400.mp4"
     ],
     "legenda": "Ela provocou, ele aceitou o jogo.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8487
+    "publicado": false,
+    "thumb_offset_ms": 8487,
+    "quando_original": "2026-10-26 14:00"
   },
   {
     "id": "s02-d7-1530",
-    "quando_lisboa": "2026-10-26 15:30",
-    "quando_utc": "2026-10-26T15:30:00.000Z",
+    "quando_lisboa": "2026-10-30 16:00",
+    "quando_utc": "2026-10-30T16:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-1530.mp4"
     ],
     "legenda": "Para começar a semana com lata.\n\nGuarda para não te esqueceres.\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#memes #humorportugues #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8605
+    "publicado": false,
+    "thumb_offset_ms": 8605,
+    "quando_original": "2026-10-26 15:30"
   },
   {
     "id": "s02-d7-1700",
-    "quando_lisboa": "2026-10-26 17:00",
-    "quando_utc": "2026-10-26T17:00:00.000Z",
+    "quando_lisboa": "2026-10-30 17:20",
+    "quando_utc": "2026-10-30T17:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-1700.mp4"
     ],
     "legenda": "Comenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 4800
+    "publicado": false,
+    "thumb_offset_ms": 4800,
+    "quando_original": "2026-10-26 17:00"
   },
   {
     "id": "s02-d7-1830",
-    "quando_lisboa": "2026-10-26 18:30",
-    "quando_utc": "2026-10-26T18:30:00.000Z",
+    "quando_lisboa": "2026-10-30 18:40",
+    "quando_utc": "2026-10-30T18:40:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-1830.mp4"
     ],
     "legenda": "Esta semana quebra-se o ciclo.\n\nMarca o amigo que vai usar isto.\n\nPara quem procura: primeira mensagem no Tinder e no Bumble · Portugal\n\n#confianca #portugal #lisboa #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 5927
+    "publicado": false,
+    "thumb_offset_ms": 5927,
+    "quando_original": "2026-10-26 18:30"
   },
   {
     "id": "s02-d7-2030",
-    "quando_lisboa": "2026-10-26 20:30",
-    "quando_utc": "2026-10-26T20:30:00.000Z",
+    "quando_lisboa": "2026-10-30 20:00",
+    "quando_utc": "2026-10-30T20:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-2030.mp4"
     ],
     "legenda": "Segunda-feira também dá para meter conversa ☕\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como ter lata · confiança para falar com ela · Coimbra · Braga\n\n#portugal #humorportugues #zerotampas",
-    "publicado": "reserva",
-    "thumb_offset_ms": 8700
+    "publicado": false,
+    "thumb_offset_ms": 8700,
+    "quando_original": "2026-10-26 20:30"
   },
   {
     "id": "s02-d7-2230",
-    "quando_lisboa": "2026-10-26 22:30",
-    "quando_utc": "2026-10-26T22:30:00.000Z",
+    "quando_lisboa": "2026-10-30 21:20",
+    "quando_utc": "2026-10-30T21:20:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-02/reels/s02-d7-2230.mp4"
     ],
     "legenda": "Simples, honesto e com um sorriso.\n\nPartilha nos teus stories.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#lisboa #porto #solteiros #zerotampas",
     "publicado": false,
-    "thumb_offset_ms": 7869
+    "thumb_offset_ms": 7869,
+    "quando_original": "2026-10-26 22:30"
   }
 ]
