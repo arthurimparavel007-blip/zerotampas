@@ -22,8 +22,8 @@ http.createServer((req, res) => {
       else { out = { id: 'cm' + (++n) }; console.log('[mock] comentário:', p.get('message')); }
     }
     else if (u.pathname.startsWith('/upload/')) { out = { success: true }; console.log('[mock] fb upload', req.headers.file_url); }
-    else if (rota[1] === 'video_reels' && p.get('upload_phase') === 'start') out = { video_id: 'v' + (++n), upload_url: `http://localhost:${PORT}/upload/v${n}` };
-    else if (rota[1] === 'video_reels' && p.get('upload_phase') === 'finish') { out = { success: true }; console.log('[mock] fb reel publicado', p.get('video_id')); }
+    else if ((rota[1] === 'video_reels' || rota[1] === 'video_stories') && p.get('upload_phase') === 'start') out = { video_id: 'v' + (++n), upload_url: `http://localhost:${PORT}/upload/v${n}` };
+    else if ((rota[1] === 'video_reels' || rota[1] === 'video_stories') && p.get('upload_phase') === 'finish') { out = { success: true, post_id: 'fbst' + n }; console.log('[mock] fb', rota[1], 'publicado', p.get('video_id')); }
     else if (rota.length === 1 && String(rota[0]).startsWith('v') && p.get('fields') === 'status') out = { status: { video_status: 'ready' } };
     else if (rota[1] === 'content_publishing_limit') out = { data: [{ quota_usage: pubs, config: { quota_total: 100, quota_duration: 86400 } }] };
     else if (req.method === 'POST' && rota[1] === 'media') { n++; out = { id: 'c' + n }; console.log('[mock] media', p.get('media_type') || 'IMAGE', (p.get('image_url') || p.get('video_url') || '').split('/').pop(), p.get('trial_params') ? 'TRIAL ' + p.get('trial_params') : ''); }
