@@ -14,6 +14,7 @@
 //   ATRASO_MAX_H     posts atrasados mais do que isto (horas) são marcados "expirado" em vez de sair em rajada (padrão 3)
 //   FB_PAGE_ID       (opcional) ID da página do Facebook. Com FB_PAGE_TOKEN, cada Reel publicado no Instagram
 //   FB_PAGE_TOKEN    sai também como Reel na página. Uma falha no Facebook nunca trava o Instagram.
+//   SEM_STORY=1      não repete cada Reel nos stories (por defeito sai nos stories do Instagram e do Facebook)
 //
 // Estados de cada item em fila/fila.json → publicado: false (por publicar) | true | "falhou" | "expirado" | "cancelado" | "manual"
 //   Para cancelar um post, troque false por "cancelado".
@@ -165,6 +166,36 @@ async function contentorReel(item, caminho) {
   throw ultimoErro;
 }
 
+
+// ---------- Story: o mesmo Reel também nos stories (Instagram e Facebook) ----------
+// O vídeo já é 9:16, por isso vai tal e qual. SEM_STORY=1 desliga. Os stories não contam para o teto da fila.
+async function storyDoReel(item) {
+  if (item.tipo !== 'REELS' || item.story_id || item.story === 'falhou' || process.env.SEM_STORY) return;
+  const bases = [BASE_URL, process.env.VIDEO_BASE_URL_ALT].filter(Boolean);
+  let ultimo;
+  for (const base of bases) {
+    try {
+      const { id } = await chamar('POST', `${IG_USER_ID}/media`, { media_type: 'STORIES', video_url: base + caminhoUrl(item.imagens[0]) });
+      await aguardarPronto(id, true);
+      for (let t = 1; ; t++) {
+        await espera(t === 1 ? 5000 : 20000);
+        try { item.story_id = (await chamar('POST', `${IG_USER_ID}/media_publish`, { creation_id: id })).id; break; }
+        catch (e) { if (e.bloqueio || !/2207027|9007|not available|not ready/i.test(e.message) || t >= 4) throw e; }
+      }
+      item.story = true; delete item.story_erro;
+      console.log(`  ✓ Story Instagram · media ${item.story_id}`);
+      return;
+    } catch (e) {
+      if (e.bloqueio) throw e;
+      ultimo = e;
+    }
+  }
+  item.story_erro = String(ultimo?.message || ultimo).slice(0, 300);
+  item.story_tentativas = (item.story_tentativas || 0) + 1;
+  if (item.story_tentativas >= 2) item.story = 'falhou';
+  console.log('  ✗ Story Instagram: ' + item.story_erro);
+}
+
 // ---------- Facebook: o mesmo Reel na página ----------
 const { FB_PAGE_ID, FB_PAGE_TOKEN } = process.env;
 const FB_API = (process.env.FB_GRAPH || 'https://graph.facebook.com') + '/' + VER;
@@ -212,6 +243,26 @@ async function tentarFacebook(item) {
     item.fb_tentativas = (item.fb_tentativas || 0) + 1;
     if (item.fb_tentativas >= 3) item.fb = 'falhou';
     console.error(`  ✗ Facebook: ${item.fb_erro}`);
+  }
+}
+
+// Story na página do Facebook (video_stories). Uma falha aqui nunca trava o resto.
+async function storyFacebook(item) {
+  if (!FB_PAGE_ID || !FB_PAGE_TOKEN || item.tipo !== 'REELS' || item.fb_story === true || item.fb_story === 'falhou' || process.env.SEM_STORY) return;
+  try {
+    const videoUrl = BASE_URL + caminhoUrl(item.imagens[0]);
+    const { video_id, upload_url } = await fb('POST', `${FB_API}/${FB_PAGE_ID}/video_stories`, { upload_phase: 'start' });
+    const up = await fetch(upload_url, { method: 'POST', headers: { Authorization: `OAuth ${await tokenDaPagina()}`, file_url: videoUrl } });
+    const upj = await up.json().catch(() => ({}));
+    if (!up.ok || upj.error || upj.success === false) throw new Error(`FB story upload: ${JSON.stringify(upj).slice(0, 300)}`);
+    const fim = await fb('POST', `${FB_API}/${FB_PAGE_ID}/video_stories`, { upload_phase: 'finish', video_id });
+    item.fb_story = true; item.fb_story_id = fim.post_id || video_id; delete item.fb_story_erro;
+    console.log(`  ✓ Story Facebook · ${item.fb_story_id}`);
+  } catch (e) {
+    item.fb_story_erro = String(e.message).slice(0, 300);
+    item.fb_story_tentativas = (item.fb_story_tentativas || 0) + 1;
+    if (item.fb_story_tentativas >= 2) item.fb_story = 'falhou';
+    console.error(`  ✗ Story Facebook: ${item.fb_story_erro}`);
   }
 }
 
@@ -291,6 +342,18 @@ async function publicar(item) {
     const pend = fila.filter(f => f.publicado === true && f.tipo === 'REELS' && !f.fb && (f.publicado_em || '') >= limiteAtraso).slice(0, 1);
     for (const f of pend) { console.log(`→ ${f.id} só no Facebook (já está no Instagram)`); await tentarFacebook(f); fs.writeFileSync(FILA, JSON.stringify(fila, null, 2)); }
   }
+  // Reels recentes que ainda não saíram nos stories (ex.: função ligada depois)
+  if (!DRY_RUN && !process.env.SEM_STORY) {
+    const semStory = fila.filter(f => f.publicado === true && f.tipo === 'REELS' && (f.publicado_em || '') >= limiteAtraso && ((!f.story_id && f.story !== 'falhou') || (FB_PAGE_ID && FB_PAGE_TOKEN && f.fb_story !== true && f.fb_story !== 'falhou'))).slice(0, 1);
+    for (const f of semStory) {
+      console.log(`→ ${f.id} só nos stories (o Reel já está publicado)`);
+      try {
+        if (!IG_USER_ID) { const me = await chamar('GET', 'me', { fields: 'user_id,username' }); IG_USER_ID = me.user_id || me.id; }
+        await storyDoReel(f);
+      } catch (e) { if (e.bloqueio) { fs.writeFileSync(PAUSA, `${new Date().toISOString()} · bloqueio ao publicar story de ${f.id}: ${e.message}`); fs.writeFileSync(FILA, JSON.stringify(fila, null, 2)); return; } }
+      await storyFacebook(f); fs.writeFileSync(FILA, JSON.stringify(fila, null, 2));
+    }
+  }
   if (!devidos.length) { console.log(`Nada para publicar (${agora}).`); return; }
 
   if (!DRY_RUN && !IG_USER_ID) {
@@ -318,6 +381,10 @@ async function publicar(item) {
       fs.writeFileSync(FILA, JSON.stringify(fila, null, 2));
       if (item.tipo === 'REELS') await primeiroComentario(item);
       await tentarFacebook(item);
+      if (item.tipo === 'REELS') {
+        await storyDoReel(item); fs.writeFileSync(FILA, JSON.stringify(fila, null, 2));
+        await storyFacebook(item); fs.writeFileSync(FILA, JSON.stringify(fila, null, 2));
+      }
     } catch (e) {
       item.erro = String(e.message).slice(0, 500);
       item.tentativas = (item.tentativas || 0) + 1;
