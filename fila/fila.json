@@ -1249,9 +1249,18 @@
       "saida/semana-01/reels/s01-d6-1700.mp4"
     ],
     "legenda": "Guarda para não te esqueceres.\n\nPara quem procura: primeiro encontro · como pedir o número sem ser estranho\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false,
+    "publicado": true,
     "thumb_offset_ms": 4055,
-    "quando_original": "2026-10-18 17:00"
+    "quando_original": "2026-10-18 17:00",
+    "media_id": "18636879913016761",
+    "publicado_em": "2026-10-25T12:34:12.633Z",
+    "comentario": true,
+    "fb_video_id": "1105156728786170",
+    "fb": true,
+    "story_id": "18097976708429793",
+    "story": true,
+    "fb_story": true,
+    "fb_story_id": "4575139242750760"
   },
   {
     "id": "s01-d6-1830",
