@@ -1777,18 +1777,9 @@
       "saida/semana-02/reels/s02-d3-0930.mp4"
     ],
     "legenda": "Envia a quem precisa disto.\n\nPara quem procura: como sair do visto · respostas a stories\n\n#lisboa #porto #solteiros #zerotampas",
-    "publicado": true,
+    "publicado": false,
     "thumb_offset_ms": 5400,
-    "quando_original": "2026-10-22 09:30",
-    "media_id": "17955865782038216",
-    "publicado_em": "2026-10-27T12:10:42.927Z",
-    "comentario": true,
-    "fb_video_id": "1152096077390773",
-    "fb": true,
-    "story_id": "17915582103550430",
-    "story": true,
-    "fb_story": true,
-    "fb_story_id": "1791821465204881"
+    "quando_original": "2026-10-22 09:30"
   },
   {
     "id": "s02-d3-1100",
@@ -1929,7 +1920,7 @@
       "saida/semana-02/reels/s02-d4-1700.mp4"
     ],
     "legenda": "Antes do fim-de-semana, a lista completa 📘\n\n12,90 € em vez de 57 €.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#tinder #solteiros #portugal #zerotampas",
-    "publicado": false,
+    "publicado": "cancelado",
     "thumb_offset_ms": 11155,
     "quando_original": "2026-10-23 17:00"
   },
@@ -2176,7 +2167,7 @@
       "saida/semana-02/reels/s02-d6-1700.mp4"
     ],
     "legenda": "Contas simples.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: como sair do visto · respostas a stories\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false,
+    "publicado": "cancelado",
     "thumb_offset_ms": 6609,
     "quando_original": "2026-10-25 17:00"
   },
