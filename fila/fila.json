@@ -1968,6 +1968,19 @@
     "motivo": "volume reduzido para 3/dia (27/10, pedido do dono)"
   },
   {
+    "id": "s03-d1-1230",
+    "quando_lisboa": "2026-10-28 12:30",
+    "quando_utc": "2026-10-28T12:30:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-03/reels/s03-d1-1230.mp4"
+    ],
+    "legenda": "Não é azar, é o «olá, tudo bem?» 😅\n\nComenta DEIXA e mando-te 3 de borla.\n\n#zerotampas #engate #portugal #solteiros #lisboa",
+    "publicado": false,
+    "thumb_offset_ms": 2000,
+    "origem": "tendencia modelada (Instagram, 28/10)"
+  },
+  {
     "id": "s02-d4-2030",
     "quando_lisboa": "2026-10-28 13:20",
     "quando_utc": "2026-10-28T13:20:00.000Z",
@@ -2024,6 +2037,19 @@
     "motivo": "volume reduzido para 3/dia (27/10, pedido do dono)"
   },
   {
+    "id": "s03-d1-1800",
+    "quando_lisboa": "2026-10-28 18:00",
+    "quando_utc": "2026-10-28T18:00:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-03/reels/s03-d1-1800.mp4"
+    ],
+    "legenda": "O visto não foi pessoal. Foi a mensagem.\n\nGuarda para a próxima 📌\n\n#zerotampas #engate #portugal #instagram #dicas",
+    "publicado": false,
+    "thumb_offset_ms": 1500,
+    "origem": "tendencia modelada (Instagram, 28/10)"
+  },
+  {
     "id": "s02-d5-1230",
     "quando_lisboa": "2026-10-28 18:40",
     "quando_utc": "2026-10-28T18:40:00.000Z",
@@ -2078,6 +2104,19 @@
     "thumb_offset_ms": 8124,
     "quando_original": "2026-10-24 17:00",
     "motivo": "volume reduzido para 3/dia (27/10, pedido do dono)"
+  },
+  {
+    "id": "s03-d1-2230",
+    "quando_lisboa": "2026-10-28 22:30",
+    "quando_utc": "2026-10-28T22:30:00.000Z",
+    "tipo": "REELS",
+    "imagens": [
+      "saida/semana-03/reels/s03-d1-2230.mp4"
+    ],
+    "legenda": "Faltam 8 semanas para o Natal. Bora? 🎄\n\nMarca o amigo que precisa de ouvir isto.\n\n#zerotampas #natal #solteiros #portugal #engate",
+    "publicado": false,
+    "thumb_offset_ms": 1000,
+    "origem": "tendencia modelada (Instagram, 28/10)"
   },
   {
     "id": "s02-d5-1830",
