@@ -1969,16 +1969,18 @@
   },
   {
     "id": "s03-d1-1230",
-    "quando_lisboa": "2026-10-28 12:30",
-    "quando_utc": "2026-10-28T12:30:00.000Z",
+    "quando_lisboa": "2026-10-28 20:15",
+    "quando_utc": "2026-10-28T20:15:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-03/reels/s03-d1-1230.mp4"
     ],
     "legenda": "Não é azar, é o «olá, tudo bem?» 😅\n\nComenta DEIXA e mando-te 3 de borla.\n\n#zerotampas #engate #portugal #solteiros #lisboa",
-    "publicado": "expirado",
+    "publicado": false,
     "thumb_offset_ms": 2000,
-    "origem": "tendencia modelada (Instagram, 28/10)"
+    "origem": "tendencia modelada (Instagram, 28/10)",
+    "quando_original": "2026-10-28 12:30",
+    "motivo": "reagendado: token IG invalidado pela Meta, 12:30 expirou"
   },
   {
     "id": "s02-d4-2030",
