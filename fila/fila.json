@@ -1969,18 +1969,18 @@
   },
   {
     "id": "s03-d1-1230",
-    "quando_lisboa": "2026-10-28 20:15",
-    "quando_utc": "2026-10-28T20:15:00.000Z",
+    "quando_lisboa": "2026-10-29 18:00",
+    "quando_utc": "2026-10-29T18:00:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-03/reels/s03-d1-1230.mp4"
     ],
     "legenda": "Não é azar, é o «olá, tudo bem?» 😅\n\nComenta DEIXA e mando-te 3 de borla.\n\n#zerotampas #engate #portugal #solteiros #lisboa",
-    "publicado": "expirado",
+    "publicado": false,
     "thumb_offset_ms": 2000,
     "origem": "tendencia modelada (Instagram, 28/10)",
     "quando_original": "2026-10-28 12:30",
-    "motivo": "reagendado: token IG invalidado pela Meta, 12:30 expirou"
+    "motivo": "reagendado: token IG invalidado em 28/10"
   },
   {
     "id": "s02-d4-2030",
@@ -2040,16 +2040,18 @@
   },
   {
     "id": "s03-d1-1800",
-    "quando_lisboa": "2026-10-28 18:00",
-    "quando_utc": "2026-10-28T18:00:00.000Z",
+    "quando_lisboa": "2026-10-29 22:30",
+    "quando_utc": "2026-10-29T22:30:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-03/reels/s03-d1-1800.mp4"
     ],
     "legenda": "O visto não foi pessoal. Foi a mensagem.\n\nGuarda para a próxima 📌\n\n#zerotampas #engate #portugal #instagram #dicas",
-    "publicado": "expirado",
+    "publicado": false,
     "thumb_offset_ms": 1500,
-    "origem": "tendencia modelada (Instagram, 28/10)"
+    "origem": "tendencia modelada (Instagram, 28/10)",
+    "quando_original": "2026-10-28 18:00",
+    "motivo": "reagendado: token IG invalidado em 28/10"
   },
   {
     "id": "s02-d5-1230",
@@ -2109,16 +2111,18 @@
   },
   {
     "id": "s03-d1-2230",
-    "quando_lisboa": "2026-10-28 22:30",
-    "quando_utc": "2026-10-28T22:30:00.000Z",
+    "quando_lisboa": "2026-10-30 12:30",
+    "quando_utc": "2026-10-30T12:30:00.000Z",
     "tipo": "REELS",
     "imagens": [
       "saida/semana-03/reels/s03-d1-2230.mp4"
     ],
     "legenda": "Faltam 8 semanas para o Natal. Bora? 🎄\n\nMarca o amigo que precisa de ouvir isto.\n\n#zerotampas #natal #solteiros #portugal #engate",
-    "publicado": "expirado",
+    "publicado": false,
     "thumb_offset_ms": 1000,
-    "origem": "tendencia modelada (Instagram, 28/10)"
+    "origem": "tendencia modelada (Instagram, 28/10)",
+    "quando_original": "2026-10-28 22:30",
+    "motivo": "reagendado: token IG invalidado em 28/10"
   },
   {
     "id": "s02-d5-1830",
@@ -2170,9 +2174,10 @@
       "saida/semana-02/reels/s02-d6-0800.mp4"
     ],
     "legenda": "Deixa do dia #13\n\nPedir ajuda numa coisa simples. Ela explica, tu agradeces e a conversa já está aberta.\n\nSegue @zerotampas para uma deixa por dia.\n\nPara quem procura: como meter conversa com uma miúda · Lisboa · Porto\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false,
+    "publicado": "cancelado",
     "thumb_offset_ms": 5600,
-    "quando_original": "2026-10-25 08:00"
+    "quando_original": "2026-10-25 08:00",
+    "motivo": "substituído pelos Reels de tendência (29/10)"
   },
   {
     "id": "s02-d6-0930",
@@ -2280,9 +2285,10 @@
       "saida/semana-02/reels/s02-d6-2030.mp4"
     ],
     "legenda": "Domingo ao fim da tarde, miradouro cheio 🌅\n\nA primeira está aqui. As outras duas estão no guia.\n\nComenta DEIXA e mando-te 3 de borla + o guia completo 👇\n\nPara quem procura: frases para meter conversa · deixas que não são foleiras\n\n#primeiroencontro #portugal #zerotampas",
-    "publicado": false,
+    "publicado": "cancelado",
     "thumb_offset_ms": 7827,
-    "quando_original": "2026-10-25 20:30"
+    "quando_original": "2026-10-25 20:30",
+    "motivo": "substituído pelos Reels de tendência (29/10)"
   },
   {
     "id": "s02-d6-2230",
@@ -2334,9 +2340,10 @@
       "saida/semana-02/reels/s02-d7-1100.mp4"
     ],
     "legenda": "Envia a quem precisa disto.\n\nPara quem procura: engate com respeito · dicas de conversa em Portugal\n\n#portugal #humorportugues #zerotampas",
-    "publicado": false,
+    "publicado": "cancelado",
     "thumb_offset_ms": 5400,
-    "quando_original": "2026-10-26 11:00"
+    "quando_original": "2026-10-26 11:00",
+    "motivo": "substituído pelos Reels de tendência (29/10)"
   },
   {
     "id": "s02-d7-1230",
