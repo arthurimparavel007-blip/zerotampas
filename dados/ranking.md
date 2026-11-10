@@ -1,23 +1,23 @@
 # Zero Tampas · ranking de conteúdo
 
-Atualizado: 2026-11-08T23:19:48.654Z · @zerotampas · **69 seguidores** · 91 posts
+Atualizado: 2026-11-10T04:22:17.240Z · @zerotampas · **70 seguidores** · 91 posts
 
 ## Seguidores (últimos dias)
 
 | Dia | Seguidores | Δ |
 | --- | --- | --- |
-| 2026-10-23 | 22 |  |
-| 2026-10-24 | 22 | +0 |
+| 2026-10-24 | 22 |  |
 | 2026-10-25 | 22 | +0 |
 | 2026-10-26 | 22 | +0 |
 | 2026-11-05 | 56 | +34 |
 | 2026-11-06 | 62 | +6 |
 | 2026-11-07 | 68 | +6 |
 | 2026-11-08 | 69 | +1 |
+| 2026-11-10 | 70 | +1 |
 
-## Médias (63 posts com alcance)
+## Médias (60 posts com alcance)
 
-Alcance 15.7 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
+Alcance 16.3 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 
 **Nota** = (partilhas×3 + guardados×2 + comentários) por 1000 de alcance. Partilhas por mensagem são o sinal que mais pesa no alcance para não-seguidores.
 
@@ -42,45 +42,45 @@ Alcance 15.7 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 18241138240316977 | ? |  | 05:24 | 57 | 0 | 0 | 0 | **0** |  |
 | 18107027977996656 | ? |  | 12:32 | 13 | 0 | 0 | 0 | **0** |  |
-| 17961006579014680 | ? |  | 19:23 | 34 | 0 | 0 | 0 | **0** | Ficaste no visto? Não mandes «então?» 🙃 Abre com uma propos |
-| 18048414035819449 | ? |  | 12:46 | 16 | 0 | 0 | 0 | **0** | Pastel de nata quente ou frio? A pergunta mais importante de |
-| 17867812296678715 | ? |  | 22:32 | 37 | 0 | 0 | 0 | **0** |  |
+| 17961006579014680 | ? |  | 19:23 | 36 | 0 | 0 | 0 | **0** | Ficaste no visto? Não mandes «então?» 🙃 Abre com uma propos |
+| 18048414035819449 | ? |  | 12:46 | 18 | 0 | 0 | 0 | **0** | Pastel de nata quente ou frio? A pergunta mais importante de |
+| 17867812296678715 | ? |  | 22:32 | 41 | 0 | 0 | 0 | **0** |  |
 
 ## Por template
 
 | template | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| deixa | 5 | 247.8 | 7.6 | 0.2 |
+| deixa | 4 | 282 | 7.3 | 0.3 |
 | chat | 1 | 230.8 | 13 | 0 |
-| marca | 8 | 203.9 | 11.6 | 0 |
-| lista | 3 | 180.6 | 6 | 0 |
+| lista | 2 | 208.4 | 5 | 0 |
+| marca | 7 | 204.4 | 12.6 | 0 |
 | dialogo | 11 | 139.5 | 16.9 | 0 |
 | meme | 8 | 104.2 | 13.5 | 0 |
 | vs | 2 | 98.2 | 11 | 0 |
 | notas | 3 | 93.8 | 13 | 0 |
-| tweet | 14 | 81.2 | 18.4 | 0 |
+| tweet | 14 | 81.1 | 18.5 | 0 |
 | bloqueada | 2 | 69.7 | 14.5 | 0 |
-| ? | 6 | 5.6 | 31.2 | 0 |
+| ? | 6 | 5.6 | 32.5 | 0 |
 
 ## Por faixa horária
 
 | faixa | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| manhã cedo (até 10h) | 12 | 169.7 | 14.7 | 0.1 |
-| noite (21h+) | 7 | 125.4 | 14 | 0 |
-| fim de tarde (18–21h) | 13 | 115.2 | 21.7 | 0 |
+| manhã cedo (até 10h) | 11 | 175.1 | 15.2 | 0.1 |
+| noite (21h+) | 7 | 125.4 | 14.6 | 0 |
 | tarde (14–18h) | 17 | 112.6 | 14.7 | 0 |
-| almoço (10–14h) | 14 | 105.1 | 13.2 | 0 |
+| fim de tarde (18–21h) | 12 | 108 | 23.3 | 0 |
+| almoço (10–14h) | 13 | 103.5 | 13.8 | 0 |
 
 ## Por cor
 
 | cor | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
 | mag | 12 | 161.3 | 13.3 | 0.1 |
-| plum | 13 | 156.1 | 13.5 | 0 |
-| sol | 15 | 132.4 | 12.5 | 0 |
+| plum | 12 | 152.4 | 14.3 | 0 |
+| sol | 13 | 134.5 | 13.2 | 0 |
 | tan | 11 | 105.6 | 18.2 | 0 |
-| ? | 12 | 57.1 | 22.3 | 0 |
+| ? | 12 | 57.1 | 23 | 0 |
 
 ## Por dia da semana
 
@@ -88,8 +88,8 @@ Alcance 15.7 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 | --- | --- | --- | --- | --- |
 | quarta-feira | 3 | 191.7 | 5.7 | 0 |
 | sábado | 12 | 184.7 | 10.5 | 0 |
-| terça-feira | 10 | 138.5 | 24.3 | 0.1 |
+| terça-feira | 10 | 138.4 | 24.4 | 0.1 |
 | domingo | 12 | 110.1 | 17.2 | 0 |
-| segunda-feira | 15 | 104.8 | 12.5 | 0 |
-| sexta-feira | 5 | 88.9 | 14.8 | 0 |
-| quinta-feira | 6 | 47.1 | 22.8 | 0 |
+| segunda-feira | 12 | 94.7 | 13.8 | 0 |
+| sexta-feira | 5 | 88.9 | 16 | 0 |
+| quinta-feira | 6 | 47.1 | 23.2 | 0 |
