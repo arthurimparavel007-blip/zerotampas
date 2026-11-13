@@ -1,23 +1,23 @@
 # Zero Tampas · ranking de conteúdo
 
-Atualizado: 2026-11-12T03:26:02.913Z · @zerotampas · **72 seguidores** · 91 posts
+Atualizado: 2026-11-13T02:58:21.130Z · @zerotampas · **72 seguidores** · 91 posts
 
 ## Seguidores (últimos dias)
 
 | Dia | Seguidores | Δ |
 | --- | --- | --- |
-| 2026-10-26 | 22 |  |
-| 2026-11-05 | 56 | +34 |
+| 2026-11-05 | 56 |  |
 | 2026-11-06 | 62 | +6 |
 | 2026-11-07 | 68 | +6 |
 | 2026-11-08 | 69 | +1 |
 | 2026-11-10 | 70 | +1 |
 | 2026-11-11 | 70 | +0 |
 | 2026-11-12 | 72 | +2 |
+| 2026-11-13 | 72 | +0 |
 
-## Médias (54 posts com alcance)
+## Médias (51 posts com alcance)
 
-Alcance 17.6 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
+Alcance 17.9 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 
 **Nota** = (partilhas×3 + guardados×2 + comentários) por 1000 de alcance. Partilhas por mensagem são o sinal que mais pesa no alcance para não-seguidores.
 
@@ -54,11 +54,10 @@ Alcance 17.6 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 | marca | 7 | 204.4 | 12.6 | 0 |
 | lista | 1 | 166.7 | 6 | 0 |
 | dialogo | 10 | 136.7 | 18 | 0 |
-| deixa | 2 | 105.6 | 9.5 | 0 |
+| deixa | 1 | 111.1 | 9 | 0 |
 | notas | 3 | 93.8 | 13 | 0 |
-| meme | 7 | 90.5 | 14.7 | 0 |
+| meme | 6 | 87.1 | 15.7 | 0 |
 | tweet | 14 | 81.1 | 18.5 | 0 |
-| vs | 1 | 71.4 | 14 | 0 |
 | bloqueada | 2 | 69.7 | 14.5 | 0 |
 | ? | 6 | 5.6 | 33 | 0 |
 
@@ -66,20 +65,20 @@ Alcance 17.6 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 
 | faixa | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
+| manhã cedo (até 10h) | 8 | 113.7 | 18.5 | 0 |
 | tarde (14–18h) | 17 | 112.6 | 14.7 | 0 |
-| manhã cedo (até 10h) | 9 | 112.1 | 17.6 | 0 |
 | fim de tarde (18–21h) | 12 | 108 | 23.3 | 0 |
-| noite (21h+) | 5 | 102.2 | 18.4 | 0 |
-| almoço (10–14h) | 11 | 88.3 | 15.3 | 0 |
+| noite (21h+) | 4 | 100 | 20.8 | 0 |
+| almoço (10–14h) | 10 | 90 | 15.4 | 0 |
 
 ## Por cor
 
 | cor | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| plum | 8 | 136 | 18.5 | 0 |
+| plum | 6 | 150.9 | 20.8 | 0 |
 | sol | 13 | 134.5 | 13.2 | 0 |
 | tan | 11 | 105.6 | 18.2 | 0 |
-| mag | 10 | 101.9 | 15 | 0 |
+| mag | 9 | 102.1 | 15.6 | 0 |
 | ? | 12 | 57.1 | 23.3 | 0 |
 
 ## Por dia da semana
@@ -90,5 +89,5 @@ Alcance 17.6 · partilhas 0 · guardados 0 · comentários 0.9 · gostos 0.1
 | domingo | 12 | 110.1 | 17.2 | 0 |
 | segunda-feira | 12 | 94.7 | 13.8 | 0 |
 | sexta-feira | 5 | 88.9 | 16.2 | 0 |
-| quinta-feira | 6 | 47.1 | 23.5 | 0 |
 | terça-feira | 7 | 42.9 | 32.6 | 0 |
+| quinta-feira | 3 | 0 | 36 | 0 |
