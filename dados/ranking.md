@@ -1,23 +1,23 @@
 # Zero Tampas · ranking de conteúdo
 
-Atualizado: 2026-11-18T03:54:21.849Z · @zerotampas · **74 seguidores** · 91 posts
+Atualizado: 2026-11-19T03:52:26.033Z · @arcestruturacao · **76 seguidores** · 9 posts
 
 ## Seguidores (últimos dias)
 
 | Dia | Seguidores | Δ |
 | --- | --- | --- |
-| 2026-11-11 | 70 |  |
-| 2026-11-12 | 72 | +2 |
+| 2026-11-12 | 72 |  |
 | 2026-11-13 | 72 | +0 |
 | 2026-11-14 | 72 | +0 |
 | 2026-11-15 | 73 | +1 |
 | 2026-11-16 | 73 | +0 |
 | 2026-11-17 | 73 | +0 |
 | 2026-11-18 | 74 | +1 |
+| 2026-11-19 | 76 | +2 |
 
-## Médias (5 posts com alcance)
+## Médias (9 posts com alcance)
 
-Alcance 33.6 · partilhas 0 · guardados 0 · comentários 0 · gostos 0.4
+Alcance 1.8 · partilhas 0 · guardados 0 · comentários 0 · gostos 0
 
 **Nota** = (partilhas×3 + guardados×2 + comentários) por 1000 de alcance. Partilhas por mensagem são o sinal que mais pesa no alcance para não-seguidores.
 
@@ -25,36 +25,36 @@ Alcance 33.6 · partilhas 0 · guardados 0 · comentários 0 · gostos 0.4
 
 | Post | Template | Cor | Hora | Alcance | Partilhas | Guardados | Coment. | Nota | Texto |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 17867812296678715 | ? |  | 22:32 | 42 | 0 | 0 | 0 | **0** |  |
-| 18048414035819449 | ? |  | 12:46 | 18 | 0 | 0 | 0 | **0** | Pastel de nata quente ou frio? A pergunta mais importante de |
-| 17961006579014680 | ? |  | 19:23 | 36 | 0 | 0 | 0 | **0** | Ficaste no visto? Não mandes «então?» 🙃 Abre com uma propos |
-| 18107027977996656 | ? |  | 12:32 | 14 | 0 | 0 | 0 | **0** |  |
-| 18241138240316977 | ? |  | 05:24 | 58 | 0 | 0 | 0 | **0** |  |
+| 18426520159158603 | ? |  | 19:38 | 7 | 0 | 0 | 0 | **0** | Sem GERIC, a sua construtora não financia na Caixa. GERIC é  |
+| 18119708147102290 | ? |  | 19:36 | 1 | 0 | 0 | 0 | **0** | Não é sobre construir. É sobre como você financia o que cons |
+| 17891332884479688 | ? |  | 19:35 | 2 | 0 | 0 | 0 | **0** | Do CNPJ à obra financiada: 5 etapas. 1. Regularização da con |
+| 18040458581657633 | ? |  | 19:34 | 1 | 0 | 0 | 0 | **0** | O que a Caixa enxerga quando analisa a sua empresa: I. Saúde |
+| 18124509904997894 | ? |  | 19:33 | 1 | 0 | 0 | 0 | **0** | 4 erros que travam o seu GERIC — e nenhum deles é falta de d |
+| 18128151379681515 | ? |  | 19:32 | 1 | 0 | 0 | 0 | **0** | Fale a língua da Caixa. GERIC, LGCE, GIHAB, PBQP-H e SGEO: a |
+| 17895124539654265 | ? |  | 19:31 | 1 | 0 | 0 | 0 | **0** | Mesma obra. Duas construtoras. Uma coloca todo o risco no pr |
+| 18137797222737638 | ? |  | 19:30 | 1 | 0 | 0 | 0 | **0** | O limite é do CNPJ. Não da obra. O LGCE vale para a construt |
+| 18102867368388117 | ? |  | 19:29 | 1 | 0 | 0 | 0 | **0** | Crédito não se pede. Se estrutura. A ARC prepara a sua const |
 
 ## Por template
 
 | template | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| ? | 5 | 0 | 33.6 | 0 |
+| ? | 9 | 0 | 1.8 | 0 |
 
 ## Por faixa horária
 
 | faixa | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| noite (21h+) | 1 | 0 | 42 | 0 |
-| almoço (10–14h) | 2 | 0 | 16 | 0 |
-| fim de tarde (18–21h) | 1 | 0 | 36 | 0 |
-| manhã cedo (até 10h) | 1 | 0 | 58 | 0 |
+| fim de tarde (18–21h) | 9 | 0 | 1.8 | 0 |
 
 ## Por cor
 
 | cor | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| ? | 5 | 0 | 33.6 | 0 |
+| ? | 9 | 0 | 1.8 | 0 |
 
 ## Por dia da semana
 
 | dia_semana | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| sexta-feira | 2 | 0 | 30 | 0 |
-| quinta-feira | 3 | 0 | 36 | 0 |
+| quarta-feira | 9 | 0 | 1.8 | 0 |
