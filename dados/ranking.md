@@ -1,23 +1,23 @@
 # Zero Tampas · ranking de conteúdo
 
-Atualizado: 2026-11-24T06:29:00.929Z · @arcestruturacao · **84 seguidores** · 17 posts
+Atualizado: 2026-11-25T05:03:44.269Z · @arcestruturacao · **85 seguidores** · 17 posts
 
 ## Seguidores (últimos dias)
 
 | Dia | Seguidores | Δ |
 | --- | --- | --- |
-| 2026-11-17 | 73 |  |
-| 2026-11-18 | 74 | +1 |
+| 2026-11-18 | 74 |  |
 | 2026-11-19 | 76 | +2 |
 | 2026-11-20 | 80 | +4 |
 | 2026-11-21 | 79 | -1 |
 | 2026-11-22 | 82 | +3 |
 | 2026-11-23 | 83 | +1 |
 | 2026-11-24 | 84 | +1 |
+| 2026-11-25 | 85 | +1 |
 
 ## Médias (17 posts com alcance)
 
-Alcance 6.3 · partilhas 0 · guardados 0.1 · comentários 0.3 · gostos 1.1
+Alcance 6.9 · partilhas 0 · guardados 0.1 · comentários 0.3 · gostos 1.1
 
 **Nota** = (partilhas×3 + guardados×2 + comentários) por 1000 de alcance. Partilhas por mensagem são o sinal que mais pesa no alcance para não-seguidores.
 
@@ -25,12 +25,12 @@ Alcance 6.3 · partilhas 0 · guardados 0.1 · comentários 0.3 · gostos 1.1
 
 | Post | Template | Cor | Hora | Alcance | Partilhas | Guardados | Coment. | Nota | Texto |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 17993190852084118 | ? |  | 00:37 | 6 | 0 | 0 | 3 | **500** | O prédio ainda nem começou… e o investidor já está dentro. � |
-| 18402043342167575 | ? |  | 23:28 | 19 | 0 | 1 | 2 | **210.5** | A Caixa pode recusar a sua obra antes mesmo de abrir o proje |
+| 17993190852084118 | ? |  | 00:37 | 10 | 0 | 0 | 3 | **300** | O prédio ainda nem começou… e o investidor já está dentro. � |
+| 18402043342167575 | ? |  | 23:28 | 24 | 0 | 1 | 2 | **166.7** | A Caixa pode recusar a sua obra antes mesmo de abrir o proje |
 | 18426520159158603 | ? |  | 19:38 | 25 | 0 | 1 | 0 | **80** | Sem GERIC, a sua construtora não financia na Caixa. GERIC é  |
-| 18143451472711698 | ? |  | 20:31 | 3 | 0 | 0 | 0 | **0** | 4 camadas que protegem o seu capital: 01 · O imóvel como las |
+| 18143451472711698 | ? |  | 20:31 | 4 | 0 | 0 | 0 | **0** | 4 camadas que protegem o seu capital: 01 · O imóvel como las |
 | 18356496754249440 | ? |  | 20:30 | 3 | 0 | 0 | 0 | **0** | Crédito não se pede. Se estrutura. A ARC prepara a sua const |
-| 17969090088200041 | ? |  | 19:06 | 5 | 0 | 0 | 0 | **0** | Toda obra precisa de dois capitais. Os 80% vêm do crédito da |
+| 17969090088200041 | ? |  | 19:06 | 6 | 0 | 0 | 0 | **0** | Toda obra precisa de dois capitais. Os 80% vêm do crédito da |
 | 18140706958730730 | ? |  | 19:05 | 3 | 0 | 0 | 0 | **0** | Seu dinheiro dentro de uma obra, lastreado no próprio imóvel |
 | 18090593732324278 | ? |  | 19:03 | 2 | 0 | 0 | 0 | **0** | A Caixa aprovou os 80%. E os 20%? É aqui que muita obra trav |
 | 18198841753397754 | ? |  | 19:02 | 2 | 0 | 0 | 0 | **0** | Renda fixa paga juros. A obra paga resultado. Na renda fixa, |
@@ -50,26 +50,26 @@ Alcance 6.3 · partilhas 0 · guardados 0.1 · comentários 0.3 · gostos 1.1
 
 | template | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| ? | 17 | 46.5 | 6.3 | 0 |
+| ? | 17 | 32.2 | 6.9 | 0 |
 
 ## Por faixa horária
 
 | faixa | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| manhã cedo (até 10h) | 1 | 500 | 6 | 0 |
-| noite (21h+) | 1 | 210.5 | 19 | 0 |
-| fim de tarde (18–21h) | 15 | 5.3 | 5.5 | 0 |
+| manhã cedo (até 10h) | 1 | 300 | 10 | 0 |
+| noite (21h+) | 1 | 166.7 | 24 | 0 |
+| fim de tarde (18–21h) | 15 | 5.3 | 5.6 | 0 |
 
 ## Por cor
 
 | cor | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| ? | 17 | 46.5 | 6.3 | 0 |
+| ? | 17 | 32.2 | 6.9 | 0 |
 
 ## Por dia da semana
 
 | dia_semana | Posts | Nota média | Alcance médio | Partilhas médias |
 | --- | --- | --- | --- | --- |
-| terça-feira | 1 | 500 | 6 | 0 |
-| segunda-feira | 8 | 26.3 | 4.9 | 0 |
+| terça-feira | 1 | 300 | 10 | 0 |
+| segunda-feira | 8 | 20.8 | 5.8 | 0 |
 | quarta-feira | 8 | 10 | 7.8 | 0 |
